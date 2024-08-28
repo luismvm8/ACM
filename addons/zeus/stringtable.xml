@@ -3,66 +3,87 @@
     <Package name="Zeus">
         <Key ID="STR_ACM_Zeus_Module_UnCardiacArrest">
             <English>Un-Cardiac Arrest</English>
+            <Español>Tratar paro cardiaco</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_ForceWakeUp">
             <English>Force Wake-up</English>
+            <Español>Despertar</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume">
             <English>Set Blood Volume</English>
+            <Español>Establecer cantidad de sangre</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_BloodVolume">
             <English>Blood Volume</English>
+            <Español>Cantidad de sangre</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_PlasmaVolume">
             <English>Plasma Volume</English>
+            <Español>Cantidad de plasma</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_SetBloodVolume_SalineVolume">
             <English>Saline Volume</English>
+            <Español>Cantidad de salino</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest">
             <English>Inflict Cardiac Arrest</English>
+            <Español>Forzar paro cardiaco</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm">
             <English>Target Rhythm</English>
+            <Español>Constantes</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Sinus">
             <English>Sinus</English>
+            <Español>Seno</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Asystole">
             <English>Asystole</English>
+            <Español>Asistolia</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_VF">
             <English>Ventricular Fibrillation</English>
+            <Español>Fibrilación Ventricular</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_PVT">
             <English>Ventricular Tachycardia</English>
+            <Español>Taquicardia Ventricular</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictCardiacArrest_TargetRhythm_Random">
             <English>Random</English>
+            <Español>Aleatorio</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury">
             <English>Inflict Chest Injury</English>
+            <Español>Forzar Herida en el Pecho</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_InjuryType">
             <English>Injury Type</English>
+            <Español>Tipo de Herida</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Pneumothorax">
             <English>Pneumothorax</English>
+            <Español>Neumotórax</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_TensionPneumothorax">
             <English>Tension Pneumothorax</English>
+            <Español>Neumotórax a tensión</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_Hemothorax">
             <English>Hemothorax</English>
+            <Español>Hemotórax</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_InflictChestInjury_TensionHemothorax">
             <English>Tension Hemothorax</English>
+            <Español>Hemotórax a tensión</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_GivePain">
             <English>Give Pain</English>
+            <Español>Forzar dolor</Español>
         </Key>
         <Key ID="STR_ACM_Zeus_Module_GivePain_PainAmount">
             <English>Pain Amount</English>
+            <Español>Cantidad de dolor</Español>
         </Key>
     </Package>
 </Project>
