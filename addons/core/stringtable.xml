@@ -3,101 +3,139 @@
     <Package name="Core">
         <Key ID="STR_ACM_Core_Category">
             <English>ACM: Core</English>
+            <Spanish>ACM: Core</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Category_Items">
             <English>Items</English>
+            <Spanish>Objetos</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_TreatmentTime_TakeOffTourniquet">
             <English>Take Off Tourniquet Time</English>
+            <Spanish>Tiempo para retirar torniquete</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_TreatmentTime_TakeOffTourniquet_Desc">
             <English>Time to take off tourniquet</English>
+            <Spanish>Tiempo para retirar torniquete</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_Dogtag_ShowWeight">
             <English>Dogtag list weight</English>
+            <Spanish>Peso en Chapas de Identificación</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_SETTING_Dogtag_ShowWeight_Desc">
             <English>Set whether dog tags list the unit's weight</English>
-        </Key><!--
+            <Spanish>Establece si las chapas de identificación muestran el peso del portador</Spanish>
+        </Key>
+        <!--
             // Actions // -->
         <Key ID="STR_ACM_Core_MorphineAutoinjector">
             <English>Use Morphine Autoinjector</English>
+            <Spanish>Usar autoinyector de Morfina</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_MorphineAutoinjector_Progress">
             <English>Using Morphine Autoinjector...</English>
+            <Spanish>Usando autoinyector de Morfina...</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_EpinephrineAutoinjector">
             <English>Use Epinephrine Autoinjector</English>
+            <Spanish>Usar autoinyector de Epinefrina</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_EpinephrineAutoinjector_Progress">
             <English>Using Epinephrine Autoinjector...</English>
+            <Spanish>Usando autoinyector de Epinefrina...</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_AdenosineAutoinjector">
             <English>Use Adenosine Autoinjector</English>
+            <Spanish>Usar autoinyector de Adenosina</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_AdenosineAutoinjector_Progress">
             <English>Using Adenosine Autoinjector...</English>
-        </Key><!--
+            <Spanish>Usando autoinyector de Adenosina...</Spanish>
+        </Key>
+        <!--
             // Cancel Carrying // -->
         <Key ID="STR_ACM_Core_CancelCarrying">
             <English>Cancel Carrying</English>
+            <Spanish>Cancelar</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_CancelCarrying_Stopped">
             <English>Stopped carrying %1</English>
-        </Key><!--
+            <Spanish>Parar de cargar a %1</Spanish>
+        </Key>
+        <!--
             // Lying State // -->
         <Key ID="STR_ACM_Core_LyingState_GetUp">
             <English>Get Up</English>
-        </Key><!--
+            <Spanish>Levantar</Spanish>
+        </Key>
+        <!--
             // Treatment Text // -->
         <Key ID="STR_ACM_Core_TreatedBy">
             <English>You are being treated by %1</English>
-        </Key><!--
+            <Spanish>Estás siendo tratado/a por %1</Spanish>
+        </Key>
+        <!--
             // Unload and carry // -->
         <Key ID="STR_ACM_Core_CarryPatient">
             <English>Carry Patient</English>
-        </Key><!--
+            <Spanish>Cargar paciente</Spanish>
+        </Key>
+        <!--
             // Boxes // -->
         <Key ID="STR_ACM_Core_MedicalSupplyCrate_Basic_Display">
             <English>[ACM] Basic Medical Supply Crate</English>
+            <Spanish>[ACM] Caja de suministros médicos</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_MedicalSupplyCrate_Advanced_Display">
             <English>[ACM] Advanced Medical Supply Crate</English>
-        </Key><!-- 
+            <Spanish>[ACM] Caja de suministros médicos avanzados</Spanish>
+        </Key>
+        <!-- 
             // Common // -->
         <Key ID="STR_ACM_Core_Common_Inserted">
             <English>Inserted</English>
+            <Spanish>Insertado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Attached">
             <English>Attached</English>
+            <Spanish>Conectado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Applied">
             <English>Applied</English>
+            <Spanish>Aplicado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Removed">
             <English>Removed</English>
+            <Spanish>Eliminado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Connected">
             <English>Connected</English>
+            <Spanish>Conectado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Disconnected">
             <English>Disconnected</English>
+            <Spanish>Desconectado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_InProgress">
             <English>In Progress</English>
+            <Spanish>En progreso</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Paused">
             <English>Paused</English>
+            <Spanish>Pausado</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Active">
             <English>Active</English>
+            <Spanish>Activo</Spanish>
         </Key>
         <Key ID="STR_ACM_Core_Common_Empty">
             <English>Empty</English>
-        </Key><!-- 
+            <Spanish>Vacío</Spanish>
+        </Key>
+        <!-- 
             // ACE Action // -->
         <Key ID="STR_ACM_Core_MedicalEquipment">
             <English>Medical Equipment</English>
+            <Spanish>Equipamiento Médico</Spanish>
         </Key>
     </Package>
 </Project>

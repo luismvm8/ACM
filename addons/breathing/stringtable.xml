@@ -3,504 +3,681 @@
     <Package name="Breathing">
         <Key ID="STR_ACM_Breathing_Category">
             <English>ACM: Breathing</English>
+            <Spanish>ACM: Respiración</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Category_Pneumothorax">
             <English>Pneumothorax</English>
+            <Spanish>Neumotórax</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Category_Diagnosis">
             <English>Diagnosis</English>
+            <Spanish>Diagnóstico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Category_Treatment">
             <English>Treatment</English>
+            <Spanish>Tratamiento</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_AltitudeAffectOxygen">
             <English>Altitude Affect Oxygen</English>
+            <Spanish>La altitud afecta al oxígeno</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_AltitudeAffectOxygen_Desc">
             <English>Sets whether oxygen saturation calculations are affected by altitude of terrain</English>
+            <Spanish>Establece si los cálculos de SP02 se ven afectados por la altitud del terreno.</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_PneumothoraxEnabled">
             <English>Pneumothorax Enabled</English>
+            <Spanish>Activar neumotórax</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_ChestInjuryChance">
             <English>Chest Injury Severity Multiplier</English>
+            <Spanish>Multiplicador de gravedad de lesiones torácicas</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_ChestInjuryChance_Desc">
             <English>Chance that a chest injury causes pneumothorax</English>
+            <Spanish>Probabilidad de que una herida en el pecho produzca un neumotórax</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_PneumothoraxDeteriorateChance">
             <English>Pneumothorax Deterioration Multiplier</English>
+            <Spanish>Multiplicador del deterioro de neumotórax</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_PneumothoraxDeteriorateChance_Desc">
             <English>Chance that pneumothorax will deteriorate</English>
+            <Spanish>Probabilidad de que un nemotórax empeore</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Hardcore_ChestInjury">
             <English>[HARDCORE] Chest Injuries</English>
+            <Spanish>[HARDCORE] Heridas torácicas</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Hardcore_ChestInjury_Desc">
             <English>[HARDCORE] Sets whether Tension Pneumothorax should require further treatment to fully treat</English>
+            <Spanish>[HARDCORE] Determina si el neumotórax a tensión necesita tratamiento adicional.</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Hardcore_HemothoraxBleeding">
             <English>[HARDCORE] Hemothorax Bleeding</English>
+            <Spanish>[HARDCORE] Sangrado de Hemotórax</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Hardcore_HemothoraxBleeding_Desc">
             <English>[HARDCORE] Sets whether Hemothorax should require further treatment to fully stop internal bleeding</English>
+            <Spanish>[HARDCORE] Define si el hemotórax necesita tratamiento adicional para detener completamente el sangrado interno.</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Allow_InspectChest">
             <English>Allow Inspect Chest</English>
+            <Spanish>Permitir inspeccionar pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Allow_InspectChest_Desc">
             <English>Training level required to Inspect Chest</English>
+            <Spanish>Nivel de entrenamiento requerido para inspeccionar pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_TreatmentTime_InspectChest">
             <English>Inspect Chest Time</English>
+            <Spanish>Tiempo para inspeccionar pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_TreatmentTime_InspectChest_Desc">
             <English>Time to perform inspect chest action</English>
+            <Spanish>Tiempo para realizar la acción "inspeccionar pecho"</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Allow_NCD">
             <English>Allow NCD Kit</English>
+            <Spanish>Permitir kit NCD</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Allow_NCD_Desc">
             <English>Training level required to use NCD Kit</English>
+            <Spanish>Nivel de entrenamiento requerido para utilizar kit NCD</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Allow_Thoracostomy">
             <English>Allow Thoracostomy</English>
+            <Spanish>Permitir toracotomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Allow_Thoracostomy_Desc">
             <English>Training level required to perform Thoracostomy</English>
+            <Spanish>Nivel requerido para efectuar toracotomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Location_Thoracostomy">
             <English>Locations Thoracostomy</English>
+            <Spanish>Zonas habilitadas para toractomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_SETTING_Location_Thoracostomy_Desc">
             <English>Sets locations at which Thoracostomy can be performed</English>
-        </Key><!--
+            <Spanish>Establece las zonas donde se permite efectuar toracotomía</Spanish>
+        </Key>
+        <!--
             // Items // -->
         <Key ID="STR_ACM_Breathing_ChestSeal">
             <English>Chest Seal</English>
+            <Spanish>Sello torácico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ChestSeal_Desc">
             <English>Used to manage penetrating chest injuries</English>
+            <Spanish>Usado para tratar heridas profundas en el pecho.</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PulseOximeter">
             <English>Pulse Oximeter</English>
+            <Spanish>Pulsioxímetro</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PulseOximeter_Desc">
             <English>Used to measure patient vitals</English>
+            <Spanish>Mide las constantes del paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Stethoscope">
             <English>Stethoscope</English>
+            <Spanish>Estetoscopio</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Stethoscope_Desc">
             <English>Used to listen to breathing and heart sounds of patient</English>
+            <Spanish>Permite auscultar al paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_NCDKit">
             <English>NCD Kit</English>
+            <Spanish>Kit NCD</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_NCDKit_Desc">
             <English>Single-use needle used to decompress tension-pneumothorax</English>
+            <Spanish>Aguja de un solo uso que permite descomprir neumotórax a tensión</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ChestTubeKit">
             <English>Chest Tube Kit</English>
+            <Spanish>Kit de tubo torácico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ChestTubeKit_Desc">
             <English>Single-use kit used to insert a chest tube for removal of fluid from the plueral space</English>
+            <Spanish>Kit de un solo uso que compuesto de un tubo torácico insertado para elminar fluidos de la cavidad pleural</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PocketBVM">
             <English>Pocket BVM</English>
+            <Spanish>Ambú portátil</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PocketBVM_Desc">
             <English>Compact version of Bag-Valve-Mask</English>
+            <Spanish>Versión de bolsillo del Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM">
             <English>Bag-Valve-Mask</English>
+            <Spanish>Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Short">
             <English>BVM</English>
+            <Spanish>Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Desc">
             <English>Used to ventilate patient that is not breathing, may be connected to oxygen</English>
+            <Spanish>Utilizado para practicar ventilación de rescate a un paciente, puede conectarse a oxígeno.</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_OxygenTank_425_Empty">
             <English>Empty Portable Oxygen Tank (425L)</English>
+            <Spanish>Tanque portátil vacío de oxígeno (425L)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_OxygenTank_425">
             <English>Portable Oxygen Tank (425L)</English>
+            <Spanish>Tanque portátil de oxígeno (425L)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_OxygenTank_425_Desc">
             <English>Used with BVM to provide supplementary oxygen to patients</English>
-        </Key><!--
+            <Spanish>Utilizado junto al Ambú para suministrar oxígeno al paciente</Spanish>
+        </Key>
+        <!--
             // Actions // -->
         <Key ID="STR_ACM_Breathing_CheckBreathing">
             <English>Check Breathing</English>
+            <Spanish>Comprobar respiración</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Progress">
             <English>Checking Breathing...</English>
+            <Spanish>Comprobando respiración...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest">
             <English>Inspect Chest</English>
+            <Spanish>Inspeccionar pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_Progress">
             <English>Inspecting Chest...</English>
+            <Spanish>Inspeccionando pecho...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_UseStethoscope">
             <English>Inspect Chest With Stethoscope</English>
+            <Spanish>Auscultar paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_UsePocketBVM">
             <English>Use Pocket BVM</English>
+            <Spanish>Usar Ambú portátil</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_UseBVM">
             <English>Use BVM</English>
+            <Spanish>Usar Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_UseBVM_Oxygen">
             <English>Use BVM with Oxygen</English>
+            <Spanish>Usar Ambú con Oxígeno</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_UseBVM_VehicleOxygen">
             <English>Use BVM with Oxygen (Vehicle)</English>
+            <Spanish>Usar Ambú con Oxígeno (Vehículo)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_UseBVM_PortableOxygen">
             <English>Use BVM with Oxygen (Portable)</English>
+            <Spanish>Usar Ambú con Oxígeno (Portátil) </Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ApplyChestSeal">
             <English>Apply Chest Seal</English>
+            <Spanish>Aplicar sello torácico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ApplyChestSeal_Progress">
             <English>Applying Chest Seal...</English>
+            <Spanish>Aplicando sello torácico...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PerformNCD">
             <English>Perform Needle-Chest-Decompression</English>
+            <Spanish>Efectuar Descompresión torácica con aguja</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PerformNCD_Progress">
             <English>Performing Needle-Chest-Decompression...</English>
+            <Spanish>Efectuando Descompresión torácica con aguja...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PerformThoracostomy">
             <English>Perform Thoracostomy</English>
+            <Spanish>Efectuar Toracotomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PerformThoracostomy_Progress">
             <English>Performing Thoracostomy...</English>
+            <Spanish>Efectuando Toracotomía...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InsertChestTube">
             <English>Insert Chest Tube</English>
+            <Spanish>Insertar Tubo torácico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InsertChestTube_Progress">
             <English>Inserting Chest Tube...</English>
+            <Spanish>Insertando Tubo torácico...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_DrainFluid_ACCUVAC">
             <English>Drain Fluid (ACCUVAC)</English>
+            <Spanish>Drenar fluidos (ACCUVAC)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_DrainFluid_SuctionBag">
             <English>Drain Fluid (Suction Bag)</English>
+            <Spanish>Drenar fluidos (Bolsa de Succión)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_DrainFluid_Suction_Progress">
             <English>Draining Fluid...</English>
+            <Spanish>Drenando fluidos...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CloseIncision">
             <English>Close Thoracostomy Incision</English>
+            <Spanish>Cerrar incisión de toracostomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CloseIncision_Progress">
             <English>Closing Thoracostomy Incision...</English>
+            <Spanish>Cerrando incisión de toracostomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PlacePulseOximeter">
             <English>Place Pulse Oximeter</English>
+            <Spanish>Colocar pulsioxímetro</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PlacePulseOximeter_Progress">
             <English>Placing Pulse Oximeter...</English>
+            <Spanish>Colocando pulsioxímetro...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_RemovePulseOximeter">
             <English>Remove Pulse Oximeter</English>
+            <Spanish>Quitar Pulsioxímetro</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_RemovePulseOximeter_Progress">
             <English>Removing Pulse Oximeter...</English>
-        </Key><!--
+            <Spanish>Quitando pulsioxímetro</Spanish>
+        </Key>
+        <!--
             // Chest Seal Action // -->
         <Key ID="STR_ACM_Breathing_ChestSeal_ActionLog">
             <English>%1 applied Chest Seal</English>
-        </Key><!--
+            <Spanish>%1 Sello Tóracico aplicado</Spanish>
+        </Key>
+        <!--
             // Check Breathing Action // -->
         <Key ID="STR_ACM_Breathing_CheckBreathing_ActionLog">
             <English>%1 checked breathing: %2</English>
+            <Spanish>%1 comprobando respiración %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Normal">
             <English>Patient is breathing normally</English>
+            <Spanish>El paciente respira con normalidad</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Normal_Short">
             <English>Normal</English>
+            <Spanish>Normal</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_None">
             <English>Patient is not breathing</English>
+            <Spanish>El paciente no respira</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_None_Short">
             <English>None</English>
+            <Spanish>No respira</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Slow">
             <English>Patient breathing is slow</English>
+            <Spanish>El paciente respira lento</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Slow_Short">
             <English>Slow</English>
+            <Spanish>Lenta</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Rapid">
             <English>Patient breathing is rapid</English>
+            <Spanish>El paciente respira rápido</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Rapid_Short">
             <English>Rapid</English>
+            <Spanish>Rápida</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Shallow">
             <English>Patient breathing is shallow</English>
+            <Spanish>La respiración del paciente es superficial</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_Shallow_Short">
             <English>Shallow</English>
+            <Spanish>Superficial</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_ShallowSlow">
             <English>Patient breathing is slow and shallow</English>
+            <Spanish>La respiración del paciente es lenta y superficial</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_ShallowSlow_Short">
             <English>Slow and shallow</English>
+            <Spanish>Lenta y superficial</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_ShallowRapid">
             <English>Patient breathing is rapid and shallow</English>
+            <Spanish>La respiración del paciente en rápida y superficial</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_CheckBreathing_ShallowRapid_Short">
             <English>Rapid and shallow</English>
-        </Key><!--
+            <Spanish>Rápida y superficial</Spanish>
+        </Key>
+        <!--
             // Inspect Chest Action // -->
         <Key ID="STR_ACM_Breathing_InspectChest_ActionLog">
             <English>%1 inspected chest: %2</English>
+            <Spanish>%1 pecho inspeccionado %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_Normal">
             <English>Chest rise and fall observed</English>
+            <Spanish>Se observa elevación y descenso del pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_None">
             <English>No chest movement observed</English>
+            <Spanish>No hay movimiento del pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_None_Short">
             <English>No chest movement</English>
+            <Spanish>Sin movimiento en el pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_None_Uneven">
             <English>Chest sides are uneven</English>
+            <Spanish>Los lados del pecho son desiguales</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_None_Uneven_Short">
             <English>chest sides uneven</English>
+            <Spanish>lados del pecho desiguales</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_Bruising">
             <English>Noticable extensive bruising</English>
+            <Spanish>Hematomas considerables y notables</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_Bruising_Short">
             <English>Extensive Bruising</English>
+            <Spanish>Hematomas considerables</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_Uneven">
             <English>Uneven chest rise and fall observed</English>
+            <Spanish>Ascenso y descenso desiguales del pecho observado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_InspectChest_Uneven_Short">
             <English>Uneven chest rise and fall</English>
-        </Key><!--
+            <Spanish>Ascenso y descenso desiguales</Spanish>
+        </Key>
+        <!--
             // NCD Action // -->
         <Key ID="STR_ACM_Breathing_NCD_Needle_Decompression">
             <English>Needle Decompression</English>
+            <Spanish>Descompresión con aguja</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_NCD_ActionLog">
             <English>%1 performed Needle Chest Decompression</English>
-        </Key><!--
+            <Spanish>%1 efectuó descompresión con aguja</Spanish>
+        </Key>
+        <!--
             // Oxygen Tank Refill Action // -->
         <Key ID="STR_ACM_Breathing_RefillOxygenTank">
             <English>Refill Oxygen Tank</English>
+            <Spanish>Rellenar Tanque de Oxígeno</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_RefillOxygenTank_Complete">
             <English>Oxygen Tank Refilled</English>
+            <Spanish>Tanque de Oxígeno rellenado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_RefillOxygenTank_Cancelled">
             <English>Oxygen Tank Refilling Cancelled</English>
+            <Spanish>Relleno del Tanque de Oxígeno cancelado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_RefillOxygenTank_Progress">
             <English>Refilling Oxygen Tank...</English>
-        </Key><!--
+            <Spanish>Rellenando Tanque de Oxígeno...</Spanish>
+        </Key>
+        <!--
             // Pulse Oximeter Placement Action // -->
         <Key ID="STR_ACM_Breathing_PulseOximeter_Already">
             <English>Patient already has pulse oximeter on the %1</English>
+            <Spanish>El paciente ya tiene un pulsioxímetro en el %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PulseOximeter_ActionLog_Placed">
             <English>%1 placed Pulse Oximeter</English>
+            <Spanish>%1 colocó Pulsioxímetro</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_PulseOximeter_ActionLog_Removed">
             <English>%1 removed Pulse Oximeter</English>
-        </Key><!--
+            <Spanish>%1 colocó Pulsioxímetro</Spanish>
+        </Key>
+        <!--
             // Thoracostomy Close Incision Action // -->
         <Key ID="STR_ACM_Breathing_ThoracostomyClose_Already">
             <English>Thoracostomy incision already closed</English>
+            <Spanish>La incisión de Toracotomía ya se ha cerrado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyClose_ActionLog">
             <English>%1 closed up thoracostomy incision</English>
+            <Spanish>%1 cerró la incisión torácica</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyClose_Complete">
             <English>Thoracostomy incision sealed and one-way valve placed</English>
-        </Key><!--
+            <Spanish>Incisión de toracostomía sellada y válvula unidireccional colocada</Spanish>
+        </Key>
+        <!--
             // Thoracostomy Drain Action // -->
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_ActionLog">
             <English>%1 drained plueral space (%2)</English>
+            <Spanish>drenó la cavidad pleural (%2)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_QuickViewLog">
             <English>Thoracostomy Drain: %1</English>
+            <Spanish>Drenaje torácico: %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_Complete">
             <English>Fluid draining complete</English>
+            <Spanish>Drenaje de fluidos completado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_Amount_Accurate">
             <English>~%1 ml of blood drained</English>
+            <Spanish>~%1 ml de sangre drenado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_Amount_None">
             <English>No blood drained</English>
+            <Spanish>Nose ha drenado sangre</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_Amount_Small">
             <English>Small amount of blood drained</English>
+            <Spanish>Pequeña cantidad de sangre drenada</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_Amount_Significant">
             <English>Significant amount of blood drained</English>
+            <Spanish>Cantidad significante de sangre drenada</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyDrain_Amount_Large">
             <English>Large amount of blood drained</English>
-        </Key><!--
+            <Spanish>Gran cantidad de sangre drenada</Spanish>
+        </Key>
+        <!--
             // Thoracostomy Chest Tube Action // -->
         <Key ID="STR_ACM_Breathing_ThoracostomyChestTube_Already">
             <English>Chest Tube already inserted</English>
+            <Spanish>El Tubo Torácico ya ha sido insertado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyChestTube_ActionLog">
             <English>%1 inserted Chest Tube</English>
+            <Spanish>%1 insertó Tubo Torácico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomyChestTube_Complete">
             <English>Chest Tube inserted</English>
-        </Key><!--
+            <Spanish>Tubo Torácico insertado</Spanish>
+        </Key>
+        <!--
             // Thoracostomy Sweep (Start) Action // -->
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Already">
             <English>Thoracostomy sweep already performed</English>
+            <Spanish>Barrido de toractomía ya realizado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_ActionLog_Complete">
             <English>%1 performed thoracostomy</English>
+            <Spanish>%1 efectuó toracotomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Complete">
             <English>Finger Thoracostomy Performed</English>
+            <Spanish>Toractomía con dedo efectuada</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_ActionLog">
-            <English>Thoracostomy Sweep: %1</English>
+            <English>Thoracotomy Sweep</English>
+            <Spanish>Barrido toracotómico</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Normal">
             <English>Lung is inflating normally</English>
+            <Spanish>El pulmón se infla con normalidad</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Normal_Short">
             <English>lung inflating normally</English>
+            <Spanish>el pulmón se infla con normalidad</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_NotInflating">
             <English>Lung is not inflating</English>
+            <Spanish>El pulmón no se infla</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_SevereCollapse">
             <English>Lung is severely collapsed</English>
+            <Spanish>Pulmón severamente colapsado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_SevereCollapse_Short">
             <English>Lung is collapsed</English>
+            <Spanish>Pulmón colapsado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Blood">
             <English>Found blood in pleural space</English>
+            <Spanish>Sangre encontrada en la cavidad pleural</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Blood_Short">
             <English>Blood in pleural space</English>
+            <Spanish>Sangre en la cavidad pleural</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_SevereBlood">
             <English>Large amount of blood in pleural space</English>
+            <Spanish>Gran cantidad de sangre en la cavidad pleural</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_SevereBlood_Short">
             <English>large amount of blood</English>
+            <Spanish>Gran cantidad de sangre</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Bleeding">
             <English>Noticable bleeding inside pleural space</English>
+            <Spanish>Sangrado evidente en la cavidad pleural</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_ThoracostomySweep_Bleeding_Short">
             <English>Bleeding in pleural space</English>
-        </Key><!--
+            <Spanish>Sangrado en la cavidad pleural</Spanish>
+        </Key>
+        <!--
             // BVM Action // -->
         <Key ID="STR_ACM_Breathing_BVM_Already">
             <English>Patient already has BVM</English>
+            <Spanish>El paciente ya está utilizando el Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_UsingBVM">
             <English>Using BVM...</English>
+            <Spanish>Usando Ambú....</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_UsingBVM_Assist">
             <English>Using BVM (Assisting CPR)...</English>
+            <Spanish>Utilizando Ambú (Asistiendo RCP)...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_UsingBVM_Oxygen">
             <English>Using BVM with oxygen...</English>
+            <Spanish>Utilizando Ambú con oxígeno...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_UsingBVM_AssistOxygen">
             <English>Using BVM with oxygen (Assisting CPR)...</English>
+            <Spanish>Utilizando Ambú con oxígeno (Asistiendo RCP)...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Stop">
             <English>Stop using BVM</English>
+            <Spanish>Dejar de usar Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Pause">
             <English>Pause Rescue Breaths</English>
+            <Spanish>Pausar ventilación de rescate</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Continue">
             <English>Continue Rescue Breaths</English>
+            <Spanish>Continuar ventilación de rescate</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Stopped">
             <English>Stopped using BVM</English>
+            <Spanish>Dejar de usar Ambú</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Paused">
             <English>Paused Rescue Breaths</English>
+            <Spanish>Ventilación de rescate detenida</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_Continued">
             <English>Continued Rescue Breaths</English>
+            <Spanish>Ventilación de rescate reanudada</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_ActionLog_Start">
             <English>%1 started BVM rescue breaths</English>
+            <Spanish>%1 Ventilación de rescate con Ambú iniciada</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_ActionLog_Stop">
             <English>%1 stopped BVM rescue breaths (x%2)</English>
+            <Spanish>%1 Ventilación de rescate con Ambú detenida (x%2)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_BVM_OxygenTankDepleted">
             <English>Portable Oxygen Tank Depleted</English>
-        </Key><!--
+            <Spanish>Tanque portátil de oxígeno agotado</Spanish>
+        </Key>
+        <!--
             // Stethoscope Action // -->
         <Key ID="STR_ACM_Breathing_Stethoscope_ActionLog">
             <English>%1 inspected chest with Stethoscope</English>
+            <Spanish>%1 Pecho auscultado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Stethoscope_Stopped">
             <English>Stopped using stethoscope</English>
+            <Spanish>Auscultación detenida</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Stethoscope_Using">
             <English>Using Stethoscope...</English>
+            <Spanish>Usando estetoscopio...</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Stethoscope_MoveBell">
             <English>Move Bell</English>
+            <Spanish>Mover campana (estetoscopio)</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_Stethoscope_PlaceBell">
             <English>Place Bell</English>
-        </Key><!--
+            <Spanish>Colocar campana (estetoscopio)</Spanish>
+        </Key>
+        <!--
             // GUI // -->
         <Key ID="STR_ACM_Breathing_GUI_Cyanosis">
             <English>Cyanosis</English>
+            <Spanish>Cianosis</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_Slight">
             <English>Slight</English>
+            <Spanish>Ligera</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_Moderate">
             <English>Moderate</English>
+            <Spanish>Moderada</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_Severe">
             <English>Severe</English>
+            <Spanish>Severa</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_UpperChest">
             <English>Upper Chest</English>
+            <Spanish>Parte superior del pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_ThoracostomyIncision_%1">
             <English>Thoracostomy Incision (%1)</English>
+            <Spanish>Incisión para toracotomía</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_ThoracostomyIncision_Sealed">
             <English>Sealed</English>
+            <Spanish>Sellado</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_ThoracostomyIncision_Open">
             <English>Open</English>
+            <Spanish>Abrir</Spanish>
         </Key>
         <Key ID="STR_ACM_Breathing_GUI_ThoracostomyIncision_ChestTube">
             <English>Chest Tube</English>
+            <Spanish>Tubo torácico</Spanish>
         </Key>
     </Package>
 </Project>

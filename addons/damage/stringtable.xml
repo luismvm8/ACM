@@ -3,152 +3,205 @@
     <Package name="Damage">
         <Key ID="STR_ACM_Damage_Category">
             <English>ACM: Damage</English>
+            <Spanish>ACM: Daño</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_Category_Thresholds">
             <English>Thresholds</English>
+            <Spanish>Umbrales</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_Category_InternalBleeding">
             <English>Internal Bleeding</English>
+            <Spanish>Hemorragia interna</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_Category_AIUnits">
             <English>AI Units</English>
+            <Spanish>Unidades de la AI</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_Enable">
             <English>Enable Damage Addon</English>
+            <Spanish>Activar daño avanzado</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_Enable_Desc">
             <English>Enable modified damage thresholds</English>
+            <Spanish>Habilita umbrales de daño modificados</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_HeadTraumaDeathThreshold">
             <English>Head Trauma Death Threshold</English>
+            <Spanish>Posibilidad de muerte por traumatismo craneoencefálico</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_HeadTraumaDeathThreshold_Desc">
             <English>Sets threshold for instant death from trauma to the head</English>
+            <Spanish>Establece la probabilidad de morir instantáneamente por un traumatismo craneoencefálico</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_BodyTraumaDeathThreshold">
             <English>Torso Trauma Death Threshold</English>
+            <Spanish>Posibilidad de muerte por traumatismo en el pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_BodyTraumaDeathThreshold_Desc">
             <English>Sets threshold for instant death from trauma to the torso</English>
+            <Spanish>Establece la probabilidad de morir instantáneamente por un traumatismo en el pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_HeadTraumaCardiacArrestThreshold">
             <English>Head Trauma Cardiac Arrest Threshold</English>
+            <Spanish>Posibiliad de paro cardiaco por traumatismo craneoencefálico</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_HeadTraumaCardiacArrestThreshold_Desc">
             <English>Sets threshold for possibility of cardiac arrest from trauma to the head, using percentage of Head Trauma Death Threshold</English>
+            <Spanish>Establece la posibilidad de sufrir un paro cardiaco por un traumatismo craneoencefálico. Utilizando la posibilidad de muerte por traumatismo craneoencefálico</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_BodyTraumaCardiacArrestThreshold">
             <English>Torso Trauma Cardiac Arrest Threshold</English>
+            <Spanish>Posibiliad de paro cardiaco por traumatismo en el pecho</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_BodyTraumaCardiacArrestThreshold_Desc">
             <English>Sets threshold for possibility of cardiac arrest from trauma to the torso, using percentage of Body Trauma Death Threshold</English>
+            <Spanish>Establece la posibilidad de sufrir un paro cardiaco por un traumatismo en el pecjo. Utilizando la posibilidad de muerte por traumatismo en el pecho.</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_InternalBleedingChanceMultiplier">
             <English>Internal Bleeding Chance Multiplier</English>
+            <Spanish>Posibilidad de Hemorragia Interna</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_InternalBleedingChanceMultiplier_Desc">
             <English>Chance for internal bleeding to occur from inflicted wounds</English>
+            <Spanish>Probabilidad de sufrir una Hemorragia Interna provocada por una herida.</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_Hardcore_InternalBleeding">
             <English>[HARDCORE] Internal Bleeding</English>
+            <Spanish>[HARDCORE] Hemorragia Interna</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_Hardcore_InternalBleeding_Desc">
             <English>[HARDCORE] Sets whether internal bleeding should require further treatment to fully stop</English>
+            <Spanish>[HARDCORE] Establece si la Hemorragia Interna requiere tratamientos añadidos para ser detenida por completo</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TraumaModifierAI">
             <English>AI Trauma Modifier</English>
+            <Spanish>Modificador de Trauma de IA</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TraumaModifierAI_Desc">
             <English>Sets AI toughness compared to player thresholds</English>
+            <Spanish>Establece la resistencia a traumas de la IA comparada a la del jugador</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_AIStayDownChance">
             <English>AI Stay Down Chance</English>
+            <Spanish>Probabilidad de Inconsciencia de la IA</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_AIStayDownChance_Desc">
             <English>Sets chance for AI to stay down once unconscious (without intervention)</English>
-        </Key><!--
+            <Spanish>Establece la probabilidad de que la IA mantenga la inconsciencia (sin intervención)</Spanish>
+        </Key>
+        <!--
             // Settings in CORE // -->
         <Key ID="STR_ACM_Damage_SETTING_TreatmentTime_WrapBodyPart">
             <English>Wrap Time</English>
+            <Spanish>Tiempo para envolver</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TreatmentTime_WrapBodyPart_Desc">
             <English>Time to wrap whole body part</English>
+            <Spanish>Tiempo necesario para envolver una parte del cuerpo</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TreatmentTime_WrappedStitch">
             <English>Wrapped Stitch Time</English>
+            <Spanish>Tiempo para suturar heridas envueltas</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TreatmentTime_WrappedStitch_Desc">
             <English>Time to stitch a wrapped wound</English>
+            <Spanish>Tiempo necesario para suturar heridas que se han envuelto</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TreatmentTime_SutureStitch">
             <English>Suture Stitch Time Multiplier</English>
+            <Spanish>Multiplicador de tiempo de sutura</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SETTING_TreatmentTime_SutureStitch_Desc">
             <English>Time multiplier when stitching wound with sutures</English>
-        </Key><!-- 
+            <Spanish>Multiplicador de tiempo de sutura</Spanish>
+        </Key>
+        <!-- 
             // Items // -->
         <Key ID="STR_ACM_Damage_PressureBandage">
             <English>Pressure Bandage</English>
+            <Spanish>Vendaje compresivo</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_PressureBandage_Desc">
             <English>Standard issue bandage</English>
+            <Spanish>Vendaje de uso común</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_EmergencyTraumaDressing">
             <English>Emergency Trauma Dressing</English>
+            <Spanish>Vendaje de emergencia</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_EmergencyTraumaDressing_Desc">
             <English>Trauma dressing with large surface area</English>
+            <Spanish>Vendaje con gran área de superficie</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_ElasticWrap">
             <English>Elastic Wrap</English>
+            <Spanish>Compresa elástica</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_ElasticWrap_Desc">
             <English>Used to wrap bandages, clotted wounds and bruises</English>
-        </Key><!--
+            <Spanish>Utilizado para envolver heridas</Spanish>
+        </Key>
+        <!--
             // Actions // -->
         <Key ID="STR_ACM_Damage_ElasticWrap_Progress">
             <English>Wrapping...</English>
+            <Spanish>Envolviendo...</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_ElasticWrap_Bruises">
             <English>Wrap Bruises</English>
+            <Spanish>Envolver hematomas</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_ElasticWrap_Bandages">
             <English>Wrap Bandaged Wounds</English>
+            <Spanish>Envolver heridas vendadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_ElasticWrap_Clots">
             <English>Wrap Clotted Wounds</English>
+            <Spanish>Envolver heridas coaguladas</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SurgicalKit_Suture">
             <English>Use Surgical Kit With Sutures</English>
+            <Spanish>Usar Kit Quirúrgico con Suturas</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SurgicalKit_Suture_Progress">
             <English>Stitching With Sutures...</English>
+            <Spanish>Suturar utilizando sutura</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SurgicalKit_Wrapped">
             <English>Use Surgical Kit (Wrapped)</English>
+            <Spanish>Usar Kit Quirúrgico (Envuelta)</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SurgicalKit_Wrapped_Suture">
             <English>Use Surgical Kit With Sutures (Wrapped)</English>
+            <Spanish>Usar Kit Quirúrgico con Suturas  (Envuelta)</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SurgicalKit_Clotted">
             <English>Use Surgical Kit (Clotted)</English>
+            <Spanish>Usar Kit Quirúrgico (Coagulada)</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_SurgicalKit_Clotted_Suture">
             <English>Use Surgical Kit With Sutures (Clotted)</English>
-        </Key><!--
+            <Spanish>Usar Kit Quirúrgico con Suturas (Coagulada)</Spanish>
+        </Key>
+        <!--
             // Wrap Body Part Action // -->
         <Key ID="STR_ACM_Damage_WrapBodyPart_ActionLog">
             <English>%1 has wrapped %2</English>
+            <Spanish>%1 ha envuelto %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_WrapBodyPart_ActionLog_Bandages">
             <English>bandages</English>
+            <Spanish>vendajes</Spanish>
         </Key>
         <Key ID="STR_ACM_Damage_WrapBodyPart_ActionLog_Clotted">
             <English>clotted wounds</English>
-        </Key><!--
+            <Spanish>heridas coaguladas</Spanish>
+        </Key>
+        <!--
             // Wrap Bruises Action // -->
         <Key ID="STR_ACM_Damage_WrapBruises_ActionLog">
             <English>%1 has wrapped bruises</English>
+            <Spanish>%1 ha envuelto hematomas</Spanish>
         </Key>
     </Package>
 </Project>

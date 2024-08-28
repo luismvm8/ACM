@@ -3,24 +3,31 @@
     <Package name="GUI">
         <Key ID="STR_ACM_GUI_Category">
             <English>ACM: GUI</English>
+            <Spanish>ACM: Interfaz</Spanish>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowInactiveStatuses">
             <English>Show inactive vitals statuses</English>
+            <Spanish>Mostrar constantes vitales inactivas</Spanish>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowInactiveStatuses_Desc">
             <English>Show vitals status in overview tab when inactive (display ""none"")</English>
+            <Spanish>Mostrar constantes vitales inactivas</Spanish>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_OverlayBodyPart">
             <English>Show overlay for selected body part</English>
+            <Spanish>Mostrar superposición para la parte del cuerpo seleccionada</Spanish>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowPatientSideLabels">
             <English>Show patient side labels</English>
+            <Spanish>Mostrar etiquetas del paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_GUI_SETTING_ShowPatientSideLabels_Desc">
             <English>Show patient left/right side labels in medical menu</English>
+            <Spanish>Muestra etiquetas en el menú médico relacionadas con el estado del paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_GUI_NoExternalBleeding">
             <English>No external bleeding</English>
+            <Spanish>Sin sangrado externo</Spanish>
         </Key>
     </Package>
 </Project>
