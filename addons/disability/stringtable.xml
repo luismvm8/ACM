@@ -4,148 +4,180 @@
         <Key ID="STR_ACM_Disability_Category">
             <English>ACM: Disability</English>
             <Español>ACM: Lesiones</Español>
+            <Spanish>ACM: Lesiones</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TreatmentTime_SAMSplint">
             <English>SAM Splint Time</English>
             <Español>Tiempo para Férula SAM</Español>
+            <Spanish>Tiempo para Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TreatmentTime_SAMSplint_Desc">
             <English>Time to apply SAM Splint</English>
             <Español>Tiempo necesario para aplicar la Férula SAM</Español>
+            <Spanish>Tiempo necesario para aplicar la Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TreatmentTime_WrapSplint">
             <English>Wrap Splint Time</English>
             <Español>Tiempo para envolver férulas</Español>
+            <Spanish>Tiempo para envolver férulas</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_TreatmentTime_WrapSplint_Desc">
             <English>Time to wrap SAM Splint</English>
             <Español>Tiempo necesario para envolver la Férula SAM</Español>
+            <Spanish>Tiempo necesario para envolver la Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_SplintFallOffTime">
             <English>Splint minimum fall off time</English>
             <Español>Tiempo mínimo para la caída de férulas</Español>
+            <Spanish>Tiempo mínimo para la caída de férulas</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SETTING_SplintFallOffTime_Desc">
             <English>Minimum time for unwrapped SAM Splint to fall off</English>
             <Español>Tiempo mínimo para la caída de Férula SAM sin envolver</Español>
+            <Spanish>Tiempo mínimo para la caída de Férula SAM sin envolver</Spanish>
         </Key>
         <!-- 
             // Items // -->
         <Key ID="STR_ACM_Disability_UniversalSplint">
             <English>Universal Splint</English>
             <Español>Férula Universal</Español>
+            <Spanish>Férula Universal</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_UniversalSplint_Desc">
             <English>Single-use splint kit used to immobilize fracture</English>
             <Español>Férula de único uso que inmoviliza una fractura</Español>
+            <Spanish>Férula de único uso que inmoviliza una fractura</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SAMSplint">
             <English>SAM Splint</English>
             <Español>Férula SAM</Español>
+            <Spanish>Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SAMSplint_Desc">
             <English>Re-usable splint used to immobilize fracture, should be wrapped to keep fracture stable</English>
             <Español>Férula reutilizable usada para inmovilizar fracturas, debe envolverse para ser estable</Español>
+            <Spanish>Férula reutilizable usada para inmovilizar fracturas, debe envolverse para ser estable</Spanish>
         </Key>
         <!--
             // Actions // -->
         <Key ID="STR_ACM_Disability_ElasticWrap_Splint">
             <English>Wrap SAM Splint</English>
             <Español>Envolver Férula SAM</Español>
+            <Spanish>Envolver Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_ApplySAMSplint">
             <English>Apply SAM Splint</English>
             <Español>Aplicar Férula SAM</Español>
+            <Spanish>Aplicar Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_ApplySAMSplint_Progress">
             <English>Applying SAM Splint...</English>
             <Español>Aplicando Férula SAM...</Español>
+            <Spanish>Aplicando Férula SAM...</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_RemoveSAMSplint">
             <English>Remove SAM Splint</English>
             <Español>Retirar Férula SAM</Español>
+            <Spanish>Retirar Férula SAM</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_RemoveSAMSplint_Progress">
             <English>Removing SAM Splint...</English>
             <Español>Retirando Férula SAM...</Español>
+            <Spanish>Retirando Férula SAM...</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_ShakeAwake">
             <English>Attempt To Shake Awake</English>
             <Español>Sacudir Paciente</Español>
+            <Spanish>Sacudir Paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_ShakeAwake_Progress">
             <English>Shaking Patient...</English>
             <Español>Sacudiendo Paciente...</Español>
+            <Spanish>Sacudiendo Paciente...</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SlapAwake">
             <English>Attempt To Slap Awake</English>
             <Español>Abofetear paciente</Español>
+            <Spanish>Abofetear paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SlapAwake_Progress">
             <English>Slapping Patient...</English>
             <Español>Abofeteando paciente...</Español>
+            <Spanish>Abofeteando paciente...</Spanish>
         </Key>
         <!--
             // Remove Splint Action // -->
         <Key ID="STR_ACM_Disability_RemoveSplint_ActionLog">
             <English>%1 removed splint</English>
             <Español>%1 ha retirado una férula</Español>
+            <Spanish>%1 ha retirado una férula</Spanish>
         </Key>
         <!--
             // Patient WakeUp Actions -->
         <Key ID="STR_ACM_Disability_AttemptWakeUp_Success">
             <English>Patient has woken up</English>
             <Español>El paciente se ha despertado</Español>
+            <Spanish>El paciente se ha despertado</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_AttemptWakeUp_Failure">
             <English>Patient is still asleep</English>
             <Español>El paciente continúa inconsciente</Español>
+            <Spanish>El paciente continúa inconsciente</Spanish>
         </Key>
         <!--
             // Shake Patient Action // -->
         <Key ID="STR_ACM_Disability_ShakePatient_ActionLog">
             <English>%1 shook the patient</English>
             <Español>%1 sacudió al paciente</Español>
+            <Spanish>%1 sacudió al paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_ShakePatient_Complete">
             <English>You shook the patient&lt;br/&gt;%1</English>
             <Español>Has sacudido al paciente &lt;br/&gt;%1</Español>
+            <Spanish>Has sacudido al paciente &lt;br/&gt;%1</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_ShakePatient_Attempt">
             <English>You attempt to shake the patient awake&lt;br/&gt;%1</English>
             <Español>Has intentado despertar al paciente con una bofetada&lt;br/&gt;%1</Español>
+            <Spanish>Has intentado despertar al paciente con una bofetada&lt;br/&gt;%1</Spanish>
         </Key>
         <!--
             // Slap Patient Action // -->
         <Key ID="STR_ACM_Disability_SlapPatient_ActionLog">
             <English>%1 slapped the patient</English>
             <Español>%1 abofeteó al paciente</Español>
+            <Spanish>%1 abofeteó al paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SlapPatient_Complete">
             <English>You slap the patient&lt;br/&gt;%1</English>
             <Español>Abofeteaste al paciente &lt;br/&gt;</Español>
+            <Spanish>Abofeteaste al paciente &lt;br/&gt;</Spanish>
         </Key>
         <Key ID="STR_ACM_Disability_SlapPatient_Attempt">
             <English>You attempt to slap the patient awake&lt;br/&gt;%1</English>
             <Español>Intentaste despertar al paciente con una bofetada &lt;br/&gt;%1</Español>
+            <Spanish>Intentaste despertar al paciente con una bofetada &lt;br/&gt;%1</Spanish>
         </Key>
         <!--
             // Splint Action // -->
         <Key ID="STR_ACM_Disability_Splint_FellOff">
             <English>Splint has fallen off</English>
             <Español>La férula se ha caído</Español>
+            <Spanish>La férula se ha caído</Spanish>
         </Key>
         <!--
             // Wrap SAM Splint Action // -->
         <Key ID="STR_ACM_Disability_WrapSplint_ActionLog">
             <English>%1 has wrapped SAM Splint</English>
             <Español>%1 ha envuelto uan férula SAM</Español>
+            <Spanish>%1 ha envuelto uan férula SAM</Spanish>
         </Key>
         <!--
             // GUI // -->
         <Key ID="STR_ACM_Disability_GUI_Wrapped">
             <English>Wrapped</English>
             <Español>Envuelta</Español>
+            <Spanish>Envuelta</Spanish>
         </Key>
     </Package>
 </Project>

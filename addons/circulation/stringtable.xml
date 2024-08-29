@@ -4,170 +4,212 @@
         <Key ID="STR_ACM_Circulation_Category">
             <English>ACM: Circulation</English>
             <Español>ACM: Circulación</Español>
+            <Spanish>ACM: Circulación</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_Coagulation">
             <English>Coagulation</English>
             <Español>Coagulación</Español>
+            <Spanish>Coagulación</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_CardiacArrest">
             <English>Cardiac Arrest</English>
             <Español>Paro Cardiaco</Español>
+            <Spanish>Paro Cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_Defibrillator">
             <English>Defibrillator</English>
             <Español>Desfibrilador</Español>
+            <Spanish>Desfibrilador</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_CPR">
             <English>CPR</English>
             <Español>RCP</Español>
+            <Spanish>RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_IV_IO">
             <English>IV/IO</English>
             <Español>IV/IO</Español>
+            <Spanish>IV/IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Category_BloodTypes">
             <English>Blood Types</English>
             <Español>Grupos Sanguíneos</Español>
+            <Spanish>Grupos Sanguíneos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestBleedRate">
             <English>Cardiac Arrest Bleed Rate</English>
             <Español>Tasa de sangrado en paro cardíaco</Español>
+            <Spanish>Tasa de sangrado en paro cardíaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestBleedRate_Desc">
             <English>Sets bleed rate while in cardiac arrest</English>
             <Español>Establece la tasa de sangrado durante un paro carciaco</Español>
+            <Spanish>Establece la tasa de sangrado durante un paro carciaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClotting">
             <English>Enable Clotting</English>
             <Español>Activar coagulación</Español>
+            <Spanish>Activar coagulación</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClotting_Desc">
             <English>Sets whether clotting is enabled</English>
             <Español>Define si la coagulación está activada</Español>
+            <Spanish>Define si la coagulación está activada</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClottingAffectAI">
             <English>Clotting for AI</English>
             <Español>Coagulación para AI</Español>
+            <Spanish>Coagulación para AI</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CoagulationClottingAffectAI_Desc">
             <English>Sets whether clotting is allowed for AI</English>
             <Español>Define si la coagulación afecta a la AI</Español>
+            <Spanish>Define si la coagulación afecta a la AI</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestChance">
             <English>Critical Damage Cardiac Arrest Chance</English>
             <Español>Probabilidad de Daño Crítico en Paro Cardiaco</Español>
+            <Spanish>Probabilidad de Daño Crítico en Paro Cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestChance_Desc">
             <English>Sets chance for unit to go into cardiac arrest after taking critical damage</English>
             <Español>Define la probabiliadad de que una unidad entre en paro cardiaco tras recibir una gran cantidad de daño</Español>
+            <Spanish>Define la probabiliadad de que una unidad entre en paro cardiaco tras recibir una gran cantidad de daño</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestDeteriorationRate">
             <English>Rhythm Deterioration Multiplier</English>
             <Español>Factor del deteriorio del ritmo cardiaco</Español>
+            <Spanish>Factor del deteriorio del ritmo cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CardiacArrestDeteriorationRate_Desc">
             <English>Chance that rhythm will deteriorate while in cardiac arrest</English>
             <Español>Probabilidad de que el ritmo cardiaco empeore durante un paro cardiaco</Español>
+            <Spanish>Probabilidad de que el ritmo cardiaco empeore durante un paro cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Hardcore_PostCardiacArrest">
             <English>[HARDCORE] Post Cardiac Arrest Complications</English>
             <Español>[HARDCORE] Complicaciones Post-Paro Cardiaco</Español>
+            <Spanish>[HARDCORE] Complicaciones Post-Paro Cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Hardcore_PostCardiacArrest_Desc">
             <English>[HARDCORE] Sets whether there should be a decrease in cardiac output after ROSC requiring further treatment to fully treat</English>
             <Español>Define si debe haber un deterioro del gasto cardíaco después del RCES que requiera tratamiento adicional para una recuperación completa</Español>
+            <Spanish>Define si debe haber un deterioro del gasto cardíaco después del RCES que requiera tratamiento adicional para una recuperación completa</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_AED">
             <English>Allow AED</English>
             <Español>Permitir DEA</Español>
+            <Spanish>Permitir DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_AED_Desc">
             <English>Training level required to use AED</English>
             <Español>Nivel de entrenamiento requerido para utilizar el DEA</Español>
+            <Spanish>Nivel de entrenamiento requerido para utilizar el DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_AEDDistanceLimit">
             <English>AED Distance Limit</English>
             <Español>Límite de distancia para el DEA</Español>
+            <Spanish>Límite de distancia para el DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_AEDDistanceLimit_Desc">
             <English>Distance over which the AED will disconnect itself from the patient</English>
             <Español>Distancia a la que el DEA se desconectará automáticamente del paciente</Español>
+            <Spanish>Distancia a la que el DEA se desconectará automáticamente del paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CPREffectiveness">
             <English>CPR Effectiveness Multiplier</English>
             <Español>Multiplicador de efectividad del RCP</Español>
+            <Spanish>Multiplicador de efectividad del RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_CPREffectiveness_Desc">
             <English>Sets overall CPR effectiveness</English>
             <Español>Define la efectividad del RCP</Español>
+            <Spanish>Define la efectividad del RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IV">
             <English>Allow IV</English>
             <Español>Permitir IV</Español>
+            <Spanish>Permitir IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IV_Desc">
             <English>Training level required to insert IVs</English>
             <Español>Nivel de entrenamiento requerido para insertar IV/IO</Español>
+            <Spanish>Nivel de entrenamiento requerido para insertar IV/IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IO">
             <English>Allow IO</English>
             <Español>Permitir IO</Español>
+            <Spanish>Permitir IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_Allow_IO_Desc">
             <English>Training level required to insert IOs</English>
             <Español>Nivel de entrenamiento requerido para insertar IO</Español>
+            <Spanish>Nivel de entrenamiento requerido para insertar IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_16">
             <English>16g IV Time</English>
             <Español>Tiempo 16g IV</Español>
+            <Spanish>Tiempo 16g IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_16_Desc">
             <English>Time to insert 16g IV</English>
             <Español>Tiempo para insertar 16g IV</Español>
+            <Spanish>Tiempo para insertar 16g IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_14">
             <English>14g IV Time</English>
             <Español>Tiempo 14g IV</Español>
+            <Spanish>Tiempo 14g IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IV_14_Desc">
             <English>Time to insert 14g IV</English>
             <Español>Tiempo para insertar 14g IV</Español>
+            <Spanish>Tiempo para insertar 14g IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_EZ">
             <English>EZ-IO Time</English>
             <Español>Tiempo EZ-IO</Español>
+            <Spanish>Tiempo EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_EZ_Desc">
             <English>Time to insert EZ-IO</English>
             <Español>Tiempo para insertar EZ-IO</Español>
+            <Spanish>Tiempo para insertar EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_FAST1">
             <English>FAST1 IO Time</English>
             <Español>Tiempo FAST1-IO</Español>
+            <Spanish>Tiempo FAST1-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_TreatmentTime_IO_FAST1_Desc">
             <English>Time to insert FAST1 IO</English>
             <Español>Tiempo para insertar FAST1-IO</Español>
+            <Spanish>Tiempo para insertar FAST1-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIV">
             <English>Allow Self IV</English>
             <Español>Permitir auto-IV</Español>
+            <Spanish>Permitir auto-IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIV_Desc">
             <English>Allow self-application of IV</English>
             <Español>Permite aplicar IV en uno mismo.</Español>
+            <Spanish>Permite aplicar IV en uno mismo.</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIO">
             <English>Allow Self IO</English>
             <Español>Permitir Auto-IO</Español>
+            <Spanish>Permitir Auto-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_SelfIO_Desc">
             <English>Allow self-application of IO</English>
             <Español>Permite aplicar IO a uno mismo.</Español>
+            <Spanish>Permite aplicar IO a uno mismo.</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_BloodType_Ratio_%1">
             <English>%1 Ratio</English>
             <Español>&amp;1 Ratio</Español>
+            <Spanish>&amp;1 Ratio</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_SETTING_BloodType_Ratio_%1_Desc">
             <English>Ratio out of 100 that is taken by the %1 blood type, ratios must add up to exactly 100</English>
@@ -177,912 +219,1132 @@
         <Key ID="STR_ACM_Circulation_AED">
             <English>Automated External Defibrillator</English>
             <Español>Desfibrilador Externo Automático</Español>
+            <Spanish>Desfibrilador Externo Automático</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Short">
             <English>AED</English>
             <Español>DEA</Español>
+            <Spanish>DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Desc">
             <English>Device used to monitor patient vitals and treat cardiac arrest</English>
             <Español>Dispositivo que mide las constantes vitales y asiste durante un paro cardiaco.</Español>
+            <Spanish>Dispositivo que mide las constantes vitales y asiste durante un paro cardiaco.</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff">
             <English>Pressure Cuff</English>
             <Español>Manguito de presión</Español>
+            <Spanish>Manguito de presión</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Desc">
             <English>Used to measure blood pressure</English>
             <Español>Mide la presión sanguínea</Español>
+            <Spanish>Mide la presión sanguínea</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_16g">
             <English>16g IV</English>
             <Español>16g IV</Español>
+            <Spanish>16g IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_16g_Desc">
             <English>Used to gain intravenous access to transfuse fluids in case of blood loss</English>
             <Español>Da acceso a la transfusión de fluidos vía intravenosa</Español>
+            <Spanish>Da acceso a la transfusión de fluidos vía intravenosa</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_14g">
             <English>14g IV</English>
             <Español>14g IV</Español>
+            <Spanish>14g IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_14g_Desc">
             <English>Used to gain intravenous access to rapidly transfuse fluids in case of blood loss</English>
             <Español>Da acceso a la transfusión rápida de fluidos vía intravenosa</Español>
+            <Spanish>Da acceso a la transfusión rápida de fluidos vía intravenosa</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IO_FAST1">
             <English>FAST1 IO</English>
             <Español>FAST1 IO</Español>
+            <Spanish>FAST1 IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IO_FAST1_Desc">
             <English>Used to gain intraosseous access to transfuse fluids in case of severe injury, allows access on the sternum</English>
             <Español>Da acceso a la transfusión de fluidos vía intraósea (esternón)</Español>
+            <Spanish>Da acceso a la transfusión de fluidos vía intraósea (esternón)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IO_EZ">
             <English>EZ-IO</English>
             <Español>EZ-IO</Español>
+            <Spanish>EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IO_EZ_Desc">
             <English>Used to gain intraosseous access to transfuse fluids in case of severe injury, allows access on the extremities</English>
             <Español>Da acceso a la transfusión de fluidos vía intraósea (extremidades)</Español>
+            <Spanish>Da acceso a la transfusión de fluidos vía intraósea (extremidades)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe">
             <English>Syringe</English>
             <Español>Jerimguilla</Español>
+            <Spanish>Jerimguilla</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringes">
             <English>Syringes</English>
             <Español>Jeringuillas</Español>
+            <Spanish>Jeringuillas</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_%1">
             <English>Syringe (%1ml)</English>
             <Español>Jeringuilla (%1ml)</Español>
+            <Spanish>Jeringuilla (%1ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Desc_%1">
             <English>Used to administer %1ml of medication</English>
             <Español>Administra hasta un máximo de 1ml de medicación</Español>
+            <Spanish>Administra hasta un máximo de 1ml de medicación</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_PreparedWith">
             <English>%1ml syringe prepared with %2</English>
             <Español>%1 Jeringuilla de 1ml perparado con %2</Español>
+            <Spanish>%1 Jeringuilla de 1ml perparado con %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_BloodBag">
             <English>Blood Bag %1</English>
             <Español>Bolsa de Sangle %1</Español>
+            <Spanish>Bolsa de Sangle %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_BloodBag_Desc">
             <English>Used to replenish lost blood volume</English>
             <Español>Usada para transfusiones</Español>
+            <Spanish>Usada para transfusiones</Spanish>
         </Key>
         <!--
             // Items - Individual Medication // -->
         <Key ID="STR_ACM_Circulation_Medication_Epinephrine">
             <English>Epinephrine</English>
             <Español>Epinefrina</Español>
+            <Spanish>Epinefrina</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Adenosine">
             <English>Adenosine</English>
             <Español>Adenosina</Español>
+            <Spanish>Adenosina</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Morphine">
             <English>Morphine</English>
             <Español>Morfina</Español>
+            <Spanish>Morfina</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Ketamine">
             <English>Ketamine</English>
             <Español>Ketamina</Español>
+            <Spanish>Ketamina</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Lidocaine">
             <English>Lidocaine</English>
             <Español>Lidocaína</Español>
+            <Spanish>Lidocaína</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_TXA">
             <English>TXA</English>
             <Español>ATX</Español>
+            <Spanish>ATX</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Amiodarone">
             <English>Amiodarone</English>
             <Español>Amiodarona</Español>
+            <Spanish>Amiodarona</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Naloxone">
             <English>Naloxone</English>
             <Español>Naloxona</Español>
+            <Spanish>Naloxona</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Medication_Penthrox">
             <English>Penthrox</English>
             <Español>Penthrox</Español>
+            <Spanish>Penthrox</Spanish>
         </Key>
         <!--
             // Items - Medication // -->
         <Key ID="STR_ACM_Circulation_Vial_Epinephrine">
             <English>Epinephrine Vial (1mg/1ml)</English>
             <Español>Vial de Epinefrina (1mg/ml)</Español>
+            <Spanish>Vial de Epinefrina (1mg/ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Epinephrine_Desc">
             <English>Used to treat cardiac arrest</English>
             <Español>Trata el paro cardiaco</Español>
+            <Spanish>Trata el paro cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Adenosine">
             <English>Adenosine Vial (12mg/4ml)</English>
             <Español>Vial de Adenosina (12mg/4ml)</Español>
+            <Spanish>Vial de Adenosina (12mg/4ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Adenosine_Desc">
             <English>Used to treat certain heart arrhythmias</English>
             <Español>Trata ciertos tipos de arritmias</Español>
+            <Spanish>Trata ciertos tipos de arritmias</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Morphine">
             <English>Morphine Vial (10mg/2ml)</English>
             <Español>Vial de Morfina (10mg/2ml)</Español>
+            <Spanish>Vial de Morfina (10mg/2ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Morphine_Desc">
             <English>Used to manage moderate to severe pain experiences</English>
             <Español>Trata dolores severos y moderados</Español>
+            <Spanish>Trata dolores severos y moderados</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Ketamine">
             <English>Ketamine Vial (500mg/10ml)</English>
             <Español>Vial de Ketamina (500mg/10ml)</Español>
+            <Spanish>Vial de Ketamina (500mg/10ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Ketamine_Desc">
             <English>Used to manage moderate to severe pain, alternative to opioid analgesics</English>
             <Español>Trata dolores severos y moderados, alternativa a opiácieos</Español>
+            <Spanish>Trata dolores severos y moderados, alternativa a opiácieos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Lidocaine">
             <English>Lidocaine Vial (100mg/5ml)</English>
             <Español>Vial de Lidocaina (100mg/5ml)</Español>
+            <Spanish>Vial de Lidocaina (100mg/5ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Lidocaine_Desc">
             <English>Used as local anesthetic for painful surgical procedures</English>
             <Español>Anestésico locar para efectuar cirujías</Español>
+            <Spanish>Anestésico locar para efectuar cirujías</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_TXA">
             <English>TXA Vial (1000mg/10ml)</English>
             <Español>Vial de ATX (1000mg/10ml)</Español>
+            <Spanish>Vial de ATX (1000mg/10ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_TXA_Desc">
             <English>Used to manage catastrophic bleeding by preventing clot dissolvement</English>
             <Español>Trata hemorragias severas previniendo la disolución de coágulos</Español>
+            <Spanish>Trata hemorragias severas previniendo la disolución de coágulos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Amiodarone">
             <English>Amiodarone Vial (150mg/3ml)</English>
             <Español>Vial de Amiodarona (150mg/3ml)</Español>
+            <Spanish>Vial de Amiodarona (150mg/3ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Vial_Amiodarone_Desc">
             <English>Used to treat irregular heart rhythms</English>
             <Español>Trata ritmos cardiacos irregulares.</Español>
+            <Spanish>Trata ritmos cardiacos irregulares.</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Spray_Naloxone">
             <English>Naloxone Nasal Spray</English>
             <Español>Spray Nasal de Naloxona</Español>
+            <Spanish>Spray Nasal de Naloxona</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Spray_Naloxone_Desc">
             <English>Used to rapidly reverse opioid overdose</English>
             <Español>Trata la sobredosis de opiáceos</Español>
+            <Spanish>Trata la sobredosis de opiáceos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Paracetamol">
             <English>Paracetamol</English>
             <Español>Paracetamol</Español>
+            <Spanish>Paracetamol</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Paracetamol_Desc">
             <English>Used to combat mild to moderate pain</English>
             <Español>Trata dolores medios-moderados</Español>
+            <Spanish>Trata dolores medios-moderados</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AmmoniaInhalant">
             <English>Ammonia Inhalant</English>
             <Español>Carbonato de Amonio (inhalador)</Español>
+            <Spanish>Carbonato de Amonio (inhalador)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AmmoniaInhalant_Desc">
             <English>Used to wake up patients who've fainted</English>
             <Español>Despierta a los pacientes de la inconsciencia.</Español>
+            <Spanish>Despierta a los pacientes de la inconsciencia.</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Inhaler_Penthrox">
             <English>Penthrox Inhaler</English>
             <Español>Inhalador de Penthrox (methoxyflurano)</Español>
+            <Spanish>Inhalador de Penthrox (methoxyflurano)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Inhaler_Penthrox_Desc">
             <English>Used to rapidly manage acute pain for a short time</English>
             <Español>Trata el dolor agudo durante un corto periodo de tiempo</Español>
+            <Spanish>Trata el dolor agudo durante un corto periodo de tiempo</Spanish>
         </Key>
         <!--
             // Actions // -->
         <Key ID="STR_ACM_Circulation_ViewMonitor">
             <English>View Monitor</English>
             <Español>Ver monitor</Español>
+            <Spanish>Ver monitor</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_FeelPulse">
             <English>Feel Pulse</English>
             <Español>Tomar pulso</Español>
+            <Spanish>Tomar pulso</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Attach">
             <English>Attach Pressure Cuff</English>
             <Español>Colocar Manguito de Presión</Español>
+            <Spanish>Colocar Manguito de Presión</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Attach_Progress">
             <English>Attaching Pressure Cuff...</English>
             <Español>Colocando Manguito de Presión...</Español>
+            <Spanish>Colocando Manguito de Presión...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Remove">
             <English>Remove Pressure Cuff</English>
             <Español>Retirar Manguito de Presión</Español>
+            <Spanish>Retirar Manguito de Presión</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Remove_Progress">
             <English>Removing Pressure Cuff...</English>
             <Español>Retirando Manguito de Presión...</Español>
+            <Spanish>Retirando Manguito de Presión...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ApplyPads">
             <English>Apply AED Pads</English>
             <Español>Colocar Electrodos del DEA</Español>
+            <Spanish>Colocar Electrodos del DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ApplyPads_Progress">
             <English>Applying AED Pads...</English>
             <Español>Colocando Electrodos...</Español>
+            <Spanish>Colocando Electrodos...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_RemovePads">
             <English>Remove AED Pads</English>
             <Español>Retirar Electrodos</Español>
+            <Spanish>Retirar Electrodos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_RemovePads_Progress">
             <English>Removing AED Pads...</English>
             <Español>Retirando Electrodos...</Español>
+            <Spanish>Retirando Electrodos...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ConnectPulseOximeter">
             <English>Connect AED Pulse Oximeter</English>
             <Español>Conectar Pulsioxímetro (DEA)</Español>
+            <Spanish>Conectar Pulsioxímetro (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ConnectPulseOximeter_Progress">
             <English>Connecting AED Pulse Oximeter...</English>
             <Español>Conectando Pulsioxímetro...</Español>
+            <Spanish>Conectando Pulsioxímetro...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_DisconnectPulseOximeter">
             <English>Disconnect AED Pulse Oximeter</English>
             <Español>Desconectar Pulsioxímetro (DEA)</Español>
+            <Spanish>Desconectar Pulsioxímetro (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_DisconnectPulseOximeter_Progress">
             <English>Disconnecting AED Pulse Oximeter...</English>
             <Español>Desconectando Pulsioxímetro...</Español>
+            <Spanish>Desconectando Pulsioxímetro...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ConnectPressureCuff">
             <English>Connect AED Pressure Cuff</English>
             <Español>Colocar Manguito de Presión (DEA)</Español>
+            <Spanish>Colocar Manguito de Presión (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ConnectPressureCuff_Progress">
             <English>Connecting AED Pressure Cuff...</English>
             <Español>Colocando Manguito de Presión...</Español>
+            <Spanish>Colocando Manguito de Presión...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_DisconnectPressureCuff">
             <English>Disconnect AED Pressure Cuff</English>
             <Español>Desconectar Manguito de Presión (DEA)</Español>
+            <Spanish>Desconectar Manguito de Presión (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_DisconnectPressureCuff_Progress">
             <English>Disconnecting AED Pressure Cuff...</English>
             <Español>Desconectando Manguito de Presión...</Español>
+            <Spanish>Desconectando Manguito de Presión...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ConnectCapnograph">
             <English>Connect AED Capnograph</English>
             <Español>Conectar Capnógrafo (DEA)</Español>
+            <Spanish>Conectar Capnógrafo (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ConnectCapnograph_Progress">
             <English>Connecting AED Capnograph...</English>
             <Español>Conectando Capnógrafo...</Español>
+            <Spanish>Conectando Capnógrafo...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_DisconnectCapnograph">
             <English>Disconnect AED Capnograph</English>
             <Español>Desconectar Capnógrafo (DEA)</Español>
+            <Spanish>Desconectar Capnógrafo (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_DisconnectCapnograph_Progress">
             <English>Disconnecting AED Capnograph...</English>
             <Español>Desconectando Capnógrafo...</Español>
+            <Spanish>Desconectando Capnógrafo...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_AnalyzeRhythm">
             <English>Analyze Rhythm</English>
             <Español>Analizar Ritmo Cardiaco</Español>
+            <Spanish>Analizar Ritmo Cardiaco</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ViewMonitor">
             <English>View AED Monitor</English>
             <Español>Ver monitor del DEA</Español>
+            <Spanish>Ver monitor del DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_ManualCharge">
             <English>Charge AED</English>
             <Español>Cargar DEA</Español>
+            <Spanish>Cargar DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Shock">
             <English>Administer Shock</English>
             <Español>Administrar Carga.</Español>
+            <Spanish>Administrar Carga.</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_CancelCharge">
             <English>Cancel Charge</English>
             <Español>Cancelar Carga</Español>
+            <Spanish>Cancelar Carga</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_MeasureBP">
             <English>Measure Blood Pressure (AED)</English>
             <Español>Medir presión sanguínea (DEA)</Español>
+            <Spanish>Medir presión sanguínea (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_BeginCPR">
             <English>Begin CPR</English>
             <Español>RCP</Español>
+            <Spanish>RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CheckCapillaryRefill">
             <English>Check Capillary Refill Time</English>
             <Español>Comprobar tiempo de respuesta capilar</Español>
+            <Spanish>Comprobar tiempo de respuesta capilar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CheckCapillaryRefill_Progress">
             <English>Checking Capillary Refill Time...</English>
             <Español>Comprobando tiempo de respuesta capilar...</Español>
+            <Spanish>Comprobando tiempo de respuesta capilar...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Measure">
             <English>Measure Blood Pressure</English>
             <Español>Medir presión sanguínea</Español>
+            <Spanish>Medir presión sanguínea</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_PressureCuff_Measure_Stethoscope">
             <English>Measure Blood Pressure (Stethoscope)</English>
             <Español>Medir presión sanguínea (Estetoscopio)</Español>
+            <Spanish>Medir presión sanguínea (Estetoscopio)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_OpenTransfusionMenu">
             <English>Transfuse Fluids</English>
             <Español>Transfundir Fluidos</Español>
+            <Spanish>Transfundir Fluidos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_16_Progress">
             <English>Inserting 16g IV...</English>
             <Español>Insertando 16g IV...</Español>
+            <Spanish>Insertando 16g IV...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_16_Progress">
             <English>Removing 16g IV...</English>
             <Español>Retirando 16g IV...</Español>
+            <Spanish>Retirando 16g IV...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_16_Upper">
             <English>Insert 16g IV (Upper)</English>
             <Español>Insertar 16g IV (superior)</Español>
+            <Spanish>Insertar 16g IV (superior)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_16_Upper">
             <English>Remove 16g IV (Upper)</English>
             <Español>Retirar 16g IV (superior)</Español>
+            <Spanish>Retirar 16g IV (superior)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_16_Middle">
             <English>Insert 16g IV (Middle)</English>
             <Español>Insertar 16g IV (media)</Español>
+            <Spanish>Insertar 16g IV (media)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_16_Middle">
             <English>Remove 16g IV (Middle)</English>
             <Español>Retirar 16g IV (media)</Español>
+            <Spanish>Retirar 16g IV (media)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_16_Lower">
             <English>Insert 16g IV (Lower)</English>
             <Español>Insertar 16g IV (baja)</Español>
+            <Spanish>Insertar 16g IV (baja)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_16_Lower">
             <English>Remove 16g IV (Lower)</English>
             <Español>Retirar 16g IV (baja)</Español>
+            <Spanish>Retirar 16g IV (baja)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_14_Progress">
             <English>Inserting 14g IV...</English>
             <Español>Insertando 14g IV...</Español>
+            <Spanish>Insertando 14g IV...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_14_Progress">
             <English>Removing 14g IV...</English>
             <Español>Retirando 14g IV...</Español>
+            <Spanish>Retirando 14g IV...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_14_Upper">
             <English>Insert 14g IV (Upper)</English>
             <Español>Insertar 14g IV (superior)</Español>
+            <Spanish>Insertar 14g IV (superior)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_14_Upper">
             <English>Remove 14g IV (Upper)</English>
             <Español>Retirar 14g IV (superior)</Español>
+            <Spanish>Retirar 14g IV (superior)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_14_Middle">
             <English>Insert 14g IV (Middle)</English>
             <Español>Insertar 14g IV (media)</Español>
+            <Spanish>Insertar 14g IV (media)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_14_Middle">
             <English>Remove 14g IV (Middle)</English>
             <Español>Retirar 14g IV (media)</Español>
+            <Spanish>Retirar 14g IV (media)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIV_14_Lower">
             <English>Insert 14g IV (Lower)</English>
             <Español>Insertar 14g IV (baja)</Español>
+            <Spanish>Insertar 14g IV (baja)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIV_14_Lower">
             <English>Remove 14g IV (Lower)</English>
             <Español>Retirar 14g IV (baja)</Español>
+            <Spanish>Retirar 14g IV (baja)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIO_FAST1">
             <English>Insert FAST1 IO</English>
             <Español>Insertar FAST1-IO</Español>
+            <Spanish>Insertar FAST1-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIO_FAST1_Progress">
             <English>Inserting FAST1 IO...</English>
             <Español>Insertando FAST1-IO...</Español>
+            <Spanish>Insertando FAST1-IO...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIO_FAST1">
             <English>Remove FAST1 IO</English>
             <Español>Retirar FAST1-IO</Español>
+            <Spanish>Retirar FAST1-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIO_FAST1_Progress">
             <English>Removing FAST1 IO...</English>
             <Español>Retirando FAST1-IO...</Español>
+            <Spanish>Retirando FAST1-IO...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIO_EZ">
             <English>Insert EZ-IO</English>
             <Español>Insertar EZ-IO</Español>
+            <Spanish>Insertar EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_InsertIO_EZ_Progress">
             <English>Inserting EZ-IO...</English>
             <Español>Insertando EZ-IO...</Español>
+            <Spanish>Insertando EZ-IO...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIO_EZ">
             <English>Remove EZ-IO</English>
             <Español>Reitrar EZ-IO</Español>
+            <Spanish>Reitrar EZ-IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_RemoveIO_EZ_Progress">
             <English>Removing EZ-IO...</English>
             <Español>Retirando EZ-1O...</Español>
+            <Spanish>Retirando EZ-1O...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseParacetamol">
             <English>Use Paracetamol</English>
             <Español>Administrar Paracetamol</Español>
+            <Spanish>Administrar Paracetamol</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseParacetamol_Progress">
             <English>Using Paracetamol...</English>
             <Español>Administrando Paracetamol</Español>
+            <Spanish>Administrando Paracetamol</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UsePenthroxInhaler">
             <English>Use Penthrox Inhaler</English>
             <Español>Usar Inhalador de Penthrox (methoxyflurano)</Español>
+            <Spanish>Usar Inhalador de Penthrox (methoxyflurano)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UsePenthroxInhaler_Progress">
             <English>Using Penthrox Inhaler...</English>
             <Español>Usando Inhalador de Penthrox (methoxyflurano)...</Español>
+            <Spanish>Usando Inhalador de Penthrox (methoxyflurano)...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseAmmoniaInhalant">
             <English>Use Ammonia Inhalant</English>
             <Español>Usar Carbonato de Amonio</Español>
+            <Spanish>Usar Carbonato de Amonio</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseAmmoniaInhalant_Progress">
             <English>Using Ammonia Inhalant...</English>
             <Español>Usando Carbonato de Amonio...</Español>
+            <Spanish>Usando Carbonato de Amonio...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseNaloxoneSpray">
             <English>Use Naloxone Spray</English>
             <Español>Usar Spray de Naloxona</Español>
+            <Spanish>Usar Spray de Naloxona</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseNaloxoneSpray_Progress">
             <English>Using Naloxone Spray...</English>
             <Español>Usando Spray de Naloxona...</Español>
+            <Spanish>Usando Spray de Naloxona...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_UseSyringe">
             <English>Use Syringe (%1ml)</English>
             <Español>Usar jeringuilla (%1ml)</Español>
+            <Spanish>Usar jeringuilla (%1ml)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Intravenous_Short">
             <English>IV</English>
             <Español>IV</Español>
+            <Spanish>IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Intraosseous_Short">
             <English>IO</English>
             <Español>IO</Español>
+            <Spanish>IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Intramuscular_Short">
             <English>IM</English>
             <Español>IM</Español>
+            <Spanish>IM</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Push">
             <English>Push</English>
             <Español>Administrar</Español>
+            <Spanish>Administrar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Inject">
             <English>Inject</English>
             <Español>Inyectar</Español>
+            <Spanish>Inyectar</Spanish>
         </Key>
         <!--
             // CPR Action // -->
         <Key ID="STR_ACM_Circulation_CPR_Already">
             <English>Patient already has CPR provider</English>
             <Español>Ya hay alguien haciéndole RCP al paciente</Español>
+            <Spanish>Ya hay alguien haciéndole RCP al paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_ActionLog_Started">
             <English>%1 started CPR</English>
             <Español>%1 ha comenzado RCP</Español>
+            <Spanish>%1 ha comenzado RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_ActionLog_Stopped">
             <English>%1 stopped CPR (%2)</English>
             <Español>%1 ha detenido RCP (%2)</Español>
+            <Spanish>%1 ha detenido RCP (%2)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Stop">
             <English>Stop CPR</English>
             <Español>Detener RCP</Español>
+            <Spanish>Detener RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Stopped">
             <English>Stopped CPR</English>
             <Español>RCP detenida</Español>
+            <Spanish>RCP detenida</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Started">
             <English>Started CPR</English>
             <Español>RCP iniciada</Español>
+            <Spanish>RCP iniciada</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Continue">
             <English>Continue CPR</English>
             <Español>Reanudar RCP</Español>
+            <Spanish>Reanudar RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Continued">
             <English>Continued CPR</English>
             <Español>RCP reanudada</Español>
+            <Spanish>RCP reanudada</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Pause">
             <English>Pause CPR</English>
             <Español>Pausar RCP</Español>
+            <Spanish>Pausar RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CPR_Paused">
             <English>Paused CPR</English>
             <Español>RCP pausada</Español>
+            <Spanish>RCP pausada</Spanish>
         </Key>
         <!--
             // Capillary Refill Action // -->
         <Key ID="STR_ACM_Circulation_CapillaryRefill_Hint">
             <English>Measured Capillary Refill Time&lt;br/&gt;%1 seconds</English>
             <Español>%1 ha medido el tiempo de respuesta capilar &lt;br/&gt;%1 segundos</Español>
+            <Spanish>%1 ha medido el tiempo de respuesta capilar &lt;br/&gt;%1 segundos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_CapillaryRefill_ActionLog">
             <English>%1 measured capillary refill time: %2 (%3)</English>
             <Español>%1 ha medido el tiempo de respuesta capilar; %2 (%3)</Español>
+            <Spanish>%1 ha medido el tiempo de respuesta capilar; %2 (%3)</Spanish>
         </Key>
         <!--
             // Feel Pulse Action // -->
         <Key ID="STR_ACM_Circulation_FeelPulse_FeelingForPulse">
             <English>Feeling for pulse...</English>
             <Español>Tomando el pulso...</Español>
+            <Spanish>Tomando el pulso...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_FeelPulse_Stopped">
             <English>Stopped feeling pulse</English>
             <Español>Has dejado de tomar el pulso</Español>
+            <Spanish>Has dejado de tomar el pulso</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_FeelPulse_Cartoid">
             <English>Carotid</English>
             <Español>Carótido</Español>
+            <Spanish>Carótido</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_FeelPulse_Radial">
             <English>Radial</English>
             <Español>Radial</Español>
+            <Spanish>Radial</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_FeelPulse_Femoral">
             <English>Femoral</English>
             <Español>Femoral</Español>
+            <Spanish>Femoral</Spanish>
         </Key>
         <!--
             // Measure Blood Pressure Action // -->
         <Key ID="STR_ACM_Circulation_MeasureBP_Stopped">
             <English>Stopped measuring blood pressure</English>
             <Español>Has dejado de medir la presión sanguínea</Español>
+            <Spanish>Has dejado de medir la presión sanguínea</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_MeasureBP_Measuring">
             <English>Measuring Blood Pressure...</English>
             <Español>Midiendo presión sanguínea...</Español>
+            <Spanish>Midiendo presión sanguínea...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_MeasureBP_Hint_Bulb">
             <English>Squeeze Bulb\n+50 (LMB) | +30 (RMB)</English>
             <Español>Inflar manguito \n+50 (LMB) | +30 (RMB)</Español>
+            <Spanish>Inflar manguito \n+50 (LMB) | +30 (RMB)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_MeasureBP_Hint_Valve">
             <English>Release Pressure\n-10 (LMB) | -2 (RMB)</English>
             <Español>Desinflar manguito \n-10 (LMB) | -2 (RMB)</Español>
+            <Spanish>Desinflar manguito \n-10 (LMB) | -2 (RMB)</Spanish>
         </Key>
         <!--
             // Transfusion Menu // -->
         <Key ID="STR_ACM_Circulation_TransfusionMenu_StopTransfusion_Display">
             <English>Stop %1 Transfusion</English>
             <Español>Detener %1 Transfusión</Español>
+            <Spanish>Detener %1 Transfusión</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_StopTransfusion_ToolTip">
             <English>Stop fluid transfusion on selected %1</English>
             <Español>Transfusión de fluidos detenida en %1</Español>
+            <Spanish>Transfusión de fluidos detenida en %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_StartTransfusion_Display">
             <English>Start %1 Transfusion</English>
             <Español>Comenzar % Ttransfusión</Español>
+            <Spanish>Comenzar % Ttransfusión</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_StartTransfusion_ToolTip">
             <English>Start fluid transfusion on selected %1</English>
             <Español>Comenzar Transfusión de fluidos en %1</Español>
+            <Spanish>Comenzar Transfusión de fluidos en %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_ToggleIV">
             <English>Toggle IV/IO</English>
             <Español>Alternar IV/IO</Español>
+            <Spanish>Alternar IV/IO</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_AddBag_Display">
             <English>Add Bag</English>
             <Español>Añadir Bolsa</Español>
+            <Spanish>Añadir Bolsa</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_AddBag_ToolTip">
             <English>Add new fluid bag</English>
             <Español>Añadir Bolsa de fluidos nueva</Español>
+            <Spanish>Añadir Bolsa de fluidos nueva</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_AddBag_Progress">
             <English>Connecting %1...</English>
             <Español>Conectando %1...</Español>
+            <Spanish>Conectando %1...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Display">
             <English>Move</English>
             <Español>Mover</Español>
+            <Spanish>Mover</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Progress">
             <English>Moving %1 to %2...</English>
             <Español>Mover 1% a %2</Español>
+            <Spanish>Mover 1% a %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Hint">
             <English>Began moving %1</English>
             <Español>Comenzó a moverse %1</Español>
+            <Spanish>Comenzó a moverse %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Place_Display">
             <English>Place</English>
             <Español>Colocar</Español>
+            <Spanish>Colocar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_ToolTip">
             <English>Move fluid bag from IV</English>
             <Español>Mover Bolsa de Fluidos de IV</Español>
+            <Spanish>Mover Bolsa de Fluidos de IV</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_MoveBag_Place_ToolTip">
             <English>Place fluid bag on selected IV line</English>
             <Español>Colocar Bolsa de Fluidos en la línea IV seleccionada</Español>
+            <Spanish>Colocar Bolsa de Fluidos en la línea IV seleccionada</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_Display">
             <English>Remove</English>
             <Español>Eliminar</Español>
+            <Spanish>Eliminar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_ToolTip">
             <English>Remove fluid bag</English>
             <Español>Eliminar Bolsa de Fluidos</Español>
+            <Spanish>Eliminar Bolsa de Fluidos</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_ActionLog">
             <English>%1 removed fluid bag (%2) from %3</English>
             <Español>&amp;1 ha eliminado Bolsa de Fluidos (%2) de %3</Español>
+            <Spanish>&amp;1 ha eliminado Bolsa de Fluidos (%2) de %3</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_RemoveBag_Progress">
             <English>Removing %1...</English>
             <Español>Eliminando %1...</Español>
+            <Spanish>Eliminando %1...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_TransfusionMenu_FluidRemaining">
             <English>%1ml remaining</English>
             <Español>%1ml restantes</Español>
+            <Spanish>%1ml restantes</Spanish>
         </Key>
         <!--
             // IV/IO Actions // -->
         <Key ID="STR_ACM_Circulation_IV_Upper">
             <English>Upper</English>
             <Español>Superior</Español>
+            <Spanish>Superior</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_Middle">
             <English>Middle</English>
             <Español>Medio</Español>
+            <Spanish>Medio</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_Lower">
             <English>Lower</English>
             <Español>Inferior</Español>
+            <Spanish>Inferior</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_Already">
             <English>Patient already has IV in the %1 (%2)</English>
             <Español>El paciente ya tiene IV en el %1 (%2)</Español>
+            <Spanish>El paciente ya tiene IV en el %1 (%2)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IO_Already">
             <English>Patient already has IO in the %1</English>
             <Español>El paciente ya tiene IO en el %1</Español>
+            <Spanish>El paciente ya tiene IO en el %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_FailedToLocateVein">
             <English>Failed to locate vein</English>
             <Español>Fallo al localizar la vena</Español>
+            <Spanish>Fallo al localizar la vena</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_IV_BodyPartTooDamaged">
             <English>Body part too damaged</English>
             <Español>Parte del cuerpo demasiado dañada</Español>
+            <Spanish>Parte del cuerpo demasiado dañada</Spanish>
         </Key>
         <!--
             // Pressure Cuff Action // -->
         <Key ID="STR_ACM_Circulation_PressureCuff_Already">
             <English>Patient already has pressure cuff on the %1</English>
             <Español>El paciente ya tiene un manguito de presión en el %2</Español>
+            <Spanish>El paciente ya tiene un manguito de presión en el %2</Spanish>
         </Key>
         <!--
             // Syringe Actions // -->
         <Key ID="STR_ACM_Circulation_Syringe_Discard">
             <English>Discard</English>
             <Español>Descartar</Español>
+            <Spanish>Descartar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Discard_Complete">
             <English>Discarded syringe contents</English>
             <Español>Contenido de la jeringuilla descartado</Español>
+            <Spanish>Contenido de la jeringuilla descartado</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Discard_Progress">
             <English>Discarding %1 from %2 syringe...</English>
             <Español>Descartando %1 de %2 jeringuilla</Español>
+            <Spanish>Descartando %1 de %2 jeringuilla</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Draw">
             <English>Draw</English>
             <Español>Extraer</Español>
+            <Spanish>Extraer</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Drawn">
             <English>%1 Drawn</English>
             <Español>%1 extraida</Español>
+            <Spanish>%1 extraida</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Push">
             <English>Push %1 (%2)</English>
             <Español>Administrar %1 (%2)</Español>
+            <Spanish>Administrar %1 (%2)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Pushing">
             <English>Pushing %1...</English>
             <Español>Administrar %1...</Español>
+            <Spanish>Administrar %1...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Inject">
             <English>Inject %1 (%2)</English>
             <Español>Inyectar %1 (%2)</Español>
+            <Spanish>Inyectar %1 (%2)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Injecting">
             <English>Injecting %1...</English>
             <Español>Inyectando %1...</Español>
+            <Spanish>Inyectando %1...</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Drawing">
             <English>Drawing %1 (%2) into %3ml syringe</English>
             <Español>Extrayendo %1 (%2) en %3ml syringe</Español>
+            <Spanish>Extrayendo %1 (%2) en %3ml syringe</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_MovePlunger">
             <English>Move Plunger</English>
             <Español>Mover émbolo</Español>
+            <Spanish>Mover émbolo</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_PushFailed">
             <English>Medication push failed&lt;br/&gt;Patient has no IV access on the %1</English>
             <Español>Fallo al administrar medicación&lt;br/&gt;El paciente no tiene IV en %1</Español>
+            <Spanish>Fallo al administrar medicación&lt;br/&gt;El paciente no tiene IV en %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Injected">
             <English>Injected</English>
             <Español>Inyectado</Español>
+            <Spanish>Inyectado</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_Pushed">
             <English>Pushed</English>
             <Español>Administrado</Español>
+            <Spanish>Administrado</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_DrawPush">
             <English>Draw &amp; Push</English>
             <Español>Extraer y administrar</Español>
+            <Spanish>Extraer y administrar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_DrawInject">
             <English>Draw &amp; Inject</English>
             <Español>Extraer e inyectar</Español>
+            <Spanish>Extraer e inyectar</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Syringe_NoMedicationSelected">
             <English>No Medication Selected</English>
             <Español>No se ha seleccionado ningún medicamento</Español>
+            <Spanish>No se ha seleccionado ningún medicamento</Spanish>
         </Key>
         <!--
             // AED Actions // -->
         <Key ID="STR_ACM_Circulation_AED_Already">
             <English>Patient already has %1 on the %2</English>
             <Español>El paciente ya tiene %1 en el %2</Español>
+            <Spanish>El paciente ya tiene %1 en el %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_%1_Disconnected">
             <English>%1 disconnected AED</English>
             <Español>%1 ha desconectado el DEA</Español>
+            <Spanish>%1 ha desconectado el DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_PatientDisconnected">
             <English>Patient Disconnected</English>
             <Español>Paciente desconectado</Español>
+            <Spanish>Paciente desconectado</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Pads">
             <English>AED pads</English>
             <Español>Electrodos del DEA</Español>
+            <Spanish>Electrodos del DEA</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_PulseOximeter">
             <English>AED Pulse Oximeter</English>
             <Español>Pulsioxímetro (DEA)</Español>
+            <Spanish>Pulsioxímetro (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_PressureCuff">
             <English>AED Pressure Cuff</English>
             <Español>Manguito de presión (DEA)</Español>
+            <Spanish>Manguito de presión (DEA)</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Capnograph">
             <English>AED Capnograph</English>
             <Español>Capnógrafo (DEA)</Español>
+            <Spanish>Capnógrafo (DEA)</Spanish>
         </Key>
         <!--
             // AED Monitor // -->
         <Key ID="STR_ACM_Circulation_AED_Monitor_HR">
             <English>HR</English>
             <Español>RC</Español>
+            <Spanish>RC</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_PR">
             <English>PR</English>
             <Español>PR</Español>
+            <Spanish>PR</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_SpO2">
             <English>SpO2</English>
             <Español>SpO2</Español>
+            <Spanish>SpO2</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_CO2">
             <English>CO2</English>
             <Español>CO2</Español>
+            <Spanish>CO2</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_NIBP">
             <English>NIBP</English>
             <Español>NIBP</Español>
+            <Spanish>NIBP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_BP">
             <English>BP</English>
             <Español>PS</Español>
+            <Spanish>PS</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_RR">
             <English>RR</English>
             <Español>FR</Español>
+            <Spanish>FR</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_CPR">
             <English>CPR Mode Toggle</English>
             <Español>Alternar modo RCP</Español>
+            <Spanish>Alternar modo RCP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Analyze">
             <English>Analyze Rhythm</English>
             <Español>Analizar Ritmo</Español>
+            <Spanish>Analizar Ritmo</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_NIBP">
             <English>Measure NIBP</English>
             <Español>Medir NIBP</Español>
+            <Spanish>Medir NIBP</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Alarms">
             <English>Toggle Alarms</English>
             <Español>Alternar Alarmas</Español>
+            <Spanish>Alternar Alarmas</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Charge">
             <English>Manual Charge</English>
             <Español>Carga Manual</Español>
+            <Spanish>Carga Manual</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_Shock">
             <English>Administer Shock</English>
             <Español>Administrar Carga</Español>
+            <Spanish>Administrar Carga</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_AED_Monitor_Button_SpeedDial">
             <English>Speed Dial</English>
             <Español>Marcación rápida</Español>
+            <Spanish>Marcación rápida</Spanish>
         </Key>
         <!--
             // GUI // -->
         <Key ID="STR_ACM_Circulation_GUI_TransfusingSaline">
             <English>Transfusing Saline [%1x]</English>
             <Español>Transfundiendo Salino [%1x]</Español>
+            <Spanish>Transfundiendo Salino [%1x]</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_GUI_TransfusingBlood">
             <English>Transfusing Blood [%1x]</English>
             <Español>Transfundiendo Sangre [%1x]</Español>
+            <Spanish>Transfundiendo Sangre [%1x]</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_GUI_TransfusingPlasma">
             <English>Transfusing Plasma [%1x]</English>
             <Español>Transfundiendo Plasma [%1x]</Español>
+            <Spanish>Transfundiendo Plasma [%1x]</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_GUI_BeganTransfusing">
             <English>%1 began transfusing fluids (%2) into %3</English>
             <Español>%1 ha empezado a transfundir fluidos (%2) a %3</Español>
+            <Spanish>%1 ha empezado a transfundir fluidos (%2) a %3</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_GUI_MovedTransfusing">
             <English>%1 moved fluid bag (%2) to %3</English>
             <Español>%1 ha mmovido Bolsa de Fluidos (%2) a %3</Español>
+            <Spanish>%1 ha mmovido Bolsa de Fluidos (%2) a %3</Spanish>
         </Key>
         <!--
             // Common // -->
         <Key ID="STR_ACM_Circulation_Common_SwitchTargetInventory">
             <English>Change target inventory</English>
             <Español>Cambiar paciente</Español>
+            <Spanish>Cambiar paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Common_Available">
             <English>%1 available</English>
             <Español>%1 disponible</Español>
+            <Spanish>%1 disponible</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Common_InventoryTarget">
             <English>Target: %1</English>
             <Español>Paciente: %1</Español>
+            <Spanish>Paciente: %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Common_Self">
             <English>Self</English>
             <Español>Yo</Español>
+            <Spanish>Yo</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Common_Patient">
             <English>Patient</English>
             <Español>Paciente</Español>
+            <Spanish>Paciente</Spanish>
         </Key>
         <Key ID="STR_ACM_Circulation_Common_Vehicle">
             <English>Vehicle</English>
             <Español>Vehículo</Español>
+            <Spanish>Vehículo</Spanish>
         </Key>
     </Package>
 </Project>

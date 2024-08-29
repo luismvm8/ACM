@@ -4,444 +4,550 @@
         <Key ID="STR_ACM_Airway_Category">
             <English>ACM: Airway</English>
             <Español>ACM: Vías aéreas</Español>
+            <Spanish>ACM: Vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Category_AirwayManagement">
             <English>Airway Management</English>
             <Español>Manejo de vías aéreas</Español>
+            <Spanish>Manejo de vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Category_AirwayAdjunct">
             <English>Airway Adjunct</English>
             <Español>Complemento de las vías aéreas</Español>
+            <Spanish>Complemento de las vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Enable">
             <English>Enable Airway</English>
             <Español>Activar vías aéreas</Español>
+            <Spanish>Activar vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Enable_Desc">
             <English>Enable airway collapse/obstruction</English>
             <Español>Activar colpaso/obstrucción de las vías aéreas</Español>
+            <Spanish>Activar colpaso/obstrucción de las vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayCollapseChance">
             <English>Airway Collapse Chance Multiplier</English>
             <Español>Multiplicador de probabilidad de colapso de las vías aérea</Español>
+            <Spanish>Multiplicador de probabilidad de colapso de las vías aérea</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayObstructionChance_Blood">
             <English>Airway Obstruction (Blood) Chance Multiplier</English>
             <Español>Multiplicador de probabilidad de obstrucción de las vías aéreas (sangre)</Español>
+            <Spanish>Multiplicador de probabilidad de obstrucción de las vías aéreas (sangre)</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayObstructionChance_Vomit">
             <English>Airway Obstruction (Vomit) Chance Multiplier</English>
             <Español>Multiplicador de probabilidad de obstrucción de las vías aéreas (vómito)</Español>
+            <Spanish>Multiplicador de probabilidad de obstrucción de las vías aéreas (vómito)</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition">
             <English>Establish Recovery Position Time</English>
             <Español>Esablecer tiempo de la posición lateral de seguridad</Español>
+            <Spanish>Esablecer tiempo de la posición lateral de seguridad</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_RecoveryPosition_Desc">
             <English>Time to establish Recovery Position</English>
             <Español>Tiempo para establecer la posición lateral de seguridad</Español>
+            <Spanish>Tiempo para establecer la posición lateral de seguridad</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SuctionBag">
             <English>Allow Suction Bag</English>
             <Español>Permitir Bolsa de Succión</Español>
+            <Spanish>Permitir Bolsa de Succión</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SuctionBag_Desc">
             <English>Training level required to use Suction Bag</English>
             <Español>Nivel de entrenamiento requerido para usar Bolsas de Succión</Español>
+            <Spanish>Nivel de entrenamiento requerido para usar Bolsas de Succión</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_ACCUVAC">
             <English>Allow ACCUVAC</English>
             <Español>Permitir ACCUVAC</Español>
+            <Spanish>Permitir ACCUVAC</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_ACCUVAC_Desc">
             <English>Training level required to use ACCUVAC</English>
             <Español>Nivel de entrenamiento requerido para usar ACCUVAC</Español>
+            <Spanish>Nivel de entrenamiento requerido para usar ACCUVAC</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_OPA">
             <English>Guedel Tube Time</English>
             <Español>Duración de la Cánula de Guedel</Español>
+            <Spanish>Duración de la Cánula de Guedel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_OPA_Desc">
             <English>Time to insert Guedel Tube</English>
             <Español>Tiempo para insertar Cánula de Guedel</Español>
+            <Spanish>Tiempo para insertar Cánula de Guedel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_NPA">
             <English>NPA Time</English>
             <Español>Duración del Tubo Nasolaríngeo</Español>
+            <Spanish>Duración del Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_NPA_Desc">
             <English>Time to insert NPA</English>
             <Español>Tiempo para insertar Tubo Nasolaríngeo</Español>
+            <Spanish>Tiempo para insertar Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_SGA">
             <English>i-gel Time</English>
             <Español>Duración de I-Gel</Español>
+            <Spanish>Duración de I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_TreatmentTime_SGA_Desc">
             <English>Time to insert i-gel</English>
             <Español>Tiempo para insertar I-Gel</Español>
+            <Spanish>Tiempo para insertar I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_OPA">
             <English>Allow Guedel Tube</English>
             <Español>Permitir Cánula de Guedel:</Español>
+            <Spanish>Permitir Cánula de Guedel:</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_OPA_Desc">
             <English>Training level required to insert Guedel Tube</English>
             <Español>Nivel de entrenamiento requerido para insertar Cánula de Guedel</Español>
+            <Spanish>Nivel de entrenamiento requerido para insertar Cánula de Guedel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_NPA">
             <English>Allow NPA</English>
             <Español>Permitir Tubo Nasolaríngeo</Español>
+            <Spanish>Permitir Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_NPA_Desc">
             <English>Training level required to insert NPA</English>
             <Español>Nivel de entrenamiento requerido para insertar Tubo Nasolaríngeo</Español>
+            <Spanish>Nivel de entrenamiento requerido para insertar Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SGA">
             <English>Allow i-gel</English>
             <Español>Permitir I-Gel</Español>
+            <Spanish>Permitir I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_Allow_SGA_Desc">
             <English>Training level required to insert i-gel</English>
             <Español>Nivel de entrenamiento requerido para insertar I-Gel</Español>
+            <Spanish>Nivel de entrenamiento requerido para insertar I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable">
             <English>Airway Adjuncts Reusable</English>
             <Español>Auxiliares de vías respiratorias reutilizables</Español>
+            <Spanish>Auxiliares de vías respiratorias reutilizables</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SETTING_AirwayAdjunctsReusable_Desc">
             <English>Airway adjuncts are kept instead of discarded on removal</English>
             <Español>Auxiliares de vías respiratorias se mantienen en lugar de descartarlos tras su uso</Español>
+            <Spanish>Auxiliares de vías respiratorias se mantienen en lugar de descartarlos tras su uso</Spanish>
         </Key>
         <!--
             // Items // -->
         <Key ID="STR_ACM_Airway_GuedelTube">
             <English>Guedel Tube</English>
             <Español>Cánula de Guedel</Español>
+            <Spanish>Cánula de Guedel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_GuedelTube_Desc">
             <English>Used to keep airway open</English>
             <Español>Mantiene abiertas las vías respiratorias</Español>
+            <Spanish>Mantiene abiertas las vías respiratorias</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_IGel">
             <English>i-gel</English>
             <Español>I-Gel</Español>
+            <Spanish>I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_IGel_Desc">
             <English>Used to secure airway for prolonged time</English>
             <Español>Asegura las vías aéreas durante un largo periodo de tiempo</Español>
+            <Spanish>Asegura las vías aéreas durante un largo periodo de tiempo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_NPA">
             <English>NPA</English>
             <Español>Tubo Nasolaríngeo</Español>
+            <Spanish>Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_NPA_Desc">
             <English>Used to keep airway open through nasal route</English>
             <Español>Mantiene abiertas las vías aéreas (vía nasal)</Español>
+            <Spanish>Mantiene abiertas las vías aéreas (vía nasal)</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SuctionBag">
             <English>Emergency Disposable Suction Bag</English>
             <Español>Bolsa de Succión de emergencia desechable</Español>
+            <Spanish>Bolsa de Succión de emergencia desechable</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SuctionBag_Short">
             <English>Suction Bag</English>
             <Español>Bolsa de Succión</Español>
+            <Spanish>Bolsa de Succión</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_SuctionBag_Desc">
             <English>Single-use bag used to clear airway obstructions</English>
             <Español>Bolsa de un solo uso que despeja obstrucciones de las vías aéreas</Español>
+            <Spanish>Bolsa de un solo uso que despeja obstrucciones de las vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_ACCUVAC">
             <English>ACCUVAC</English>
             <Español>ACCUVAC</Español>
+            <Spanish>ACCUVAC</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_ACCUVAC_Desc">
             <English>Device used to clear airway obstructions</English>
             <Español>Dispositvo que despeja obstrucciones de las vías aéreas mediante succión</Español>
+            <Spanish>Dispositvo que despeja obstrucciones de las vías aéreas mediante succión</Spanish>
         </Key>
         <!--
             // Actions // -->
         <Key ID="STR_ACM_Airway_CheckAirway">
             <English>Check Airway</English>
             <Español>Comprobar vías aéreas</Español>
+            <Spanish>Comprobar vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Progress">
             <English>Checking Airway...</English>
             <Español>Comprobando vías aéreas...</Español>
+            <Spanish>Comprobando vías aéreas...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_PerformHeadTurning">
             <English>Perform Head Turning</English>
             <Español>Girar cabeza</Español>
+            <Spanish>Girar cabeza</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_PerformHeadTurning_Progress">
             <English>Head Turning...</English>
             <Español>Girando cabeza...</Español>
+            <Spanish>Girando cabeza...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_PerformHeadTiltChinLift">
             <English>Perform Head Tilt-Chin Lift</English>
             <Español>Efectuar maniobra frente-mentón</Español>
+            <Spanish>Efectuar maniobra frente-mentón</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_EstablishRecoveryPosition">
             <English>Establish Recovery Position</English>
             <Español>Establecer posición lateral de seguridad</Español>
+            <Spanish>Establecer posición lateral de seguridad</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_EstablishRecoveryPosition_Progress">
             <English>Establishing Recovery Position...</English>
             <Español>Estableciendo posición lateral de seguridad...</Español>
+            <Spanish>Estableciendo posición lateral de seguridad...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CancelRecoveryPosition">
             <English>Cancel Recovery Position</English>
             <Español>Cancelar posición  lateral de seguridad</Español>
+            <Spanish>Cancelar posición  lateral de seguridad</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CancelRecoveryPosition_Progress">
             <English>Cancelling Recovery Position...</English>
             <Español>Cancelando posición lateral de seguridad...</Español>
+            <Spanish>Cancelando posición lateral de seguridad...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_UseSuctionBag">
             <English>Use Suction Bag</English>
             <Español>Usar Bolsa de Succión</Español>
+            <Spanish>Usar Bolsa de Succión</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_UseSuctionBag_Progress">
             <English>Using Suction Bag...</English>
             <Español>Usando Bolsa de Succión...</Español>
+            <Spanish>Usando Bolsa de Succión...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_UseACCUVAC">
             <English>Use ACCUVAC</English>
             <Español>Usar ACCUVAC</Español>
+            <Spanish>Usar ACCUVAC</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_UseACCUVAC_Progress">
             <English>Using ACCUVAC...</English>
             <Español>Usando ACCUVAC...</Español>
+            <Spanish>Usando ACCUVAC...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_InsertGuedelTube">
             <English>Insert Guedel Tube</English>
             <Español>Insertar Cánula de Guedel</Español>
+            <Spanish>Insertar Cánula de Guedel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_InsertGuedelTube_Progress">
             <English>Inserting Guedel Tube...</English>
             <Español>Insertando Cánula de Guedel...</Español>
+            <Spanish>Insertando Cánula de Guedel...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_InsertNPA">
             <English>Insert NPA</English>
             <Español>Insertar Tubo Nasolaríngeo</Español>
+            <Spanish>Insertar Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_InsertNPA_Progress">
             <English>Inserting NPA...</English>
             <Español>Insertando Tubo Nasolaríngeo...</Español>
+            <Spanish>Insertando Tubo Nasolaríngeo...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_InsertIGel">
             <English>Insert i-gel</English>
             <Español>Insertar I-Gel</Español>
+            <Spanish>Insertar I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_InsertIGel_Progress">
             <English>Inserting i-gel...</English>
             <Español>Insertando I-Gel...</Español>
+            <Spanish>Insertando I-Gel...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveGuedelTube">
             <English>Remove Guedel Tube</English>
             <Español>Retirar Cánula de Guedel</Español>
+            <Spanish>Retirar Cánula de Guedel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveGuedelTube_Progress">
             <English>Removing Guedel Tube...</English>
             <Español>Retirando Cánula de Guedel...</Español>
+            <Spanish>Retirando Cánula de Guedel...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveNPA">
             <English>Remove NPA</English>
             <Español>Retirar Tubo Nasolaríngeo</Español>
+            <Spanish>Retirar Tubo Nasolaríngeo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveNPA_Progress">
             <English>Removing NPA...</English>
             <Español>Retirando Tubo Nasolaríngeo...</Español>
+            <Spanish>Retirando Tubo Nasolaríngeo...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveIGel">
             <English>Remove i-gel</English>
             <Español>Retirar I-Gel</Español>
+            <Spanish>Retirar I-Gel</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RemoveIGel_Progress">
             <English>Removing i-gel...</English>
             <Español>Retirando I-Gel...</Español>
+            <Spanish>Retirando I-Gel...</Spanish>
         </Key>
         <!--
             // Head tilt-chin lift Action // -->
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_Already">
             <English>Patient already has head tilted-chin lifted</English>
             <Español>Ya se ha efectuado la maniobra frente-mentón</Español>
+            <Spanish>Ya se ha efectuado la maniobra frente-mentón</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionLog">
             <English>%1 started performing head tilt-chin lift</English>
             <Español>%1 ha comenzado la maniobra frente-mentón</Español>
+            <Spanish>%1 ha comenzado la maniobra frente-mentón</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionHint">
             <English>Performing head tilt-chin lift&lt;br/&gt;Stay close to the patient</English>
             <Español>Efectuando maniobra frente-mentón&lt;br/&gt;Mantente cerca del paciente.</Español>
+            <Spanish>Efectuando maniobra frente-mentón&lt;br/&gt;Mantente cerca del paciente.</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionInProgress">
             <English>Performing Head Tilt-Chin Lift...</English>
             <Español>Efectuando maniobra frente-mentón...</Español>
+            <Spanish>Efectuando maniobra frente-mentón...</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTiltChinLift_ActionCancelled">
             <English>Head tilt-chin lift cancelled</English>
             <Español>Maniobra cancelada</Español>
+            <Spanish>Maniobra cancelada</Spanish>
         </Key>
         <!--
             // Check Airway Action // -->
         <Key ID="STR_ACM_Airway_CheckAirway_ActionLog">
             <English>%1 checked airway: %2</English>
             <Español>%1 ha comprobado las vías aéreas %2</Español>
+            <Spanish>%1 ha comprobado las vías aéreas %2</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_AirwayIsClear">
             <English>Airway is clear</English>
             <Español>Vías aéreas despejadas</Español>
+            <Spanish>Vías aéreas despejadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_AirwayIsClear_Short">
             <English>Clear</English>
             <Español>Despejadas</Español>
+            <Spanish>Despejadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_RecoveryPosition">
             <English>In Recovery Position</English>
             <Español>En posición lateral de seguridad</Español>
+            <Spanish>En posición lateral de seguridad</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_RecoveryPosition_Short">
             <English>In Recovery</English>
             <Español>En recuperación</Español>
+            <Spanish>En recuperación</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_HeadTiltChinLift">
             <English>Head Tilted-Chin Lifted</English>
             <Español>Frente y mentón levantdados</Español>
+            <Spanish>Frente y mentón levantdados</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_HeadTiltChinLift_Short">
             <English>Head Tilted</English>
             <Español>Cabeza inclinada</Español>
+            <Spanish>Cabeza inclinada</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_%1_Inserted">
             <English>%1 Inserted</English>
             <Español>%1 Insertado</Español>
+            <Spanish>%1 Insertado</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Mild">
             <English>Airway mildly collapsed</English>
             <Español>Vías aéreas medianamente colapsadas</Español>
+            <Spanish>Vías aéreas medianamente colapsadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Mild_Short">
             <English>Mild collapse</English>
             <Español>Colapso medio</Español>
+            <Spanish>Colapso medio</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Moderate">
             <English>Airway moderately collapsed</English>
             <Español>Vías aéreas moderadamente colapsadas</Español>
+            <Spanish>Vías aéreas moderadamente colapsadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Moderate_Short">
             <English>Moderate collapse</English>
             <Español>Colapso moderado</Español>
+            <Spanish>Colapso moderado</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Severe">
             <English>Airway severely collapsed</English>
             <Español>Vías aéreas severamente colapsadas</Español>
+            <Spanish>Vías aéreas severamente colapsadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Collapse_Severe_Short">
             <English>Severe collapse</English>
             <Español>Colapso severo</Español>
+            <Spanish>Colapso severo</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Light">
             <English>Airway lightly obstructed</English>
             <Español>Vías aéreas ligeramente obstruidas</Español>
+            <Spanish>Vías aéreas ligeramente obstruidas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Light_Short">
             <English>Light obstruction</English>
             <Español>Obstrucción ligera</Español>
+            <Spanish>Obstrucción ligera</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction">
             <English>Airway obstructed</English>
             <Español>Vías aéreas obstruidas</Español>
+            <Spanish>Vías aéreas obstruidas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_CheckAirway_Obstruction_Short">
             <English>Obstruction</English>
             <Español>Obstrucción</Español>
+            <Spanish>Obstrucción</Spanish>
         </Key>
         <!--
             // Suction Action // -->
         <Key ID="STR_ACM_Airway_Suction_Finished">
             <English>Suction finished</English>
             <Español>Succión realizada</Español>
+            <Spanish>Succión realizada</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Suction_AirwayIsClear">
             <English>Airway is clear</English>
             <Español>Vías aéreas despejadas</Español>
+            <Spanish>Vías aéreas despejadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Suction_AirwayHasBeenCleared">
             <English>Airway has been cleared</English>
             <Español>Se han despejado las vías aéreas</Español>
+            <Spanish>Se han despejado las vías aéreas</Spanish>
         </Key>
         <!--
             // Adjunct Insertion Action // -->
         <Key ID="STR_ACM_Airway_Adjunct_Already">
             <English>Airway item already inserted</English>
             <Español>Ya hay otro objeto insertado en las vías aéreas</Español>
+            <Spanish>Ya hay otro objeto insertado en las vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_Failed">
             <English>Failed to insert %1</English>
             <Español>Fallo al insertar %1</Español>
+            <Spanish>Fallo al insertar %1</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_%1_Inserted">
             <English>%1 inserted</English>
             <Español>%1 Insertado</Español>
+            <Spanish>%1 Insertado</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_Adjunct_ActionLog">
             <English>%1 has inserted %2</English>
             <Español>%1 ha insertado %2</Español>
+            <Spanish>%1 ha insertado %2</Spanish>
         </Key>
         <!--
             // Head Turning Action // -->
         <Key ID="STR_ACM_Airway_HeadTurn_Performed">
             <English>Head turning performed</English>
             <Español>Giro de cabeza efectuado</Español>
+            <Spanish>Giro de cabeza efectuado</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_AirwayIsClear">
             <English>Airway is clear</English>
             <Español>Las vías aéreas están despejadas</Español>
+            <Spanish>Las vías aéreas están despejadas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_AirwayCleared">
             <English>Airway has been cleared</English>
             <Español>Se han despejado las vías aéreas</Español>
+            <Spanish>Se han despejado las vías aéreas</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_Failed">
             <English>Head turning unsuccessful</English>
             <Español>Giro de cabeza fallido</Español>
+            <Spanish>Giro de cabeza fallido</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_SuctionRequired">
             <English>Medical suction required</English>
             <Español>Succión médica requerida</Español>
+            <Spanish>Succión médica requerida</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_HeadTurn_ActionLog">
             <English>%1 performed head turning</English>
             <Español>%1 ha girado la cabeza del paciente</Español>
+            <Spanish>%1 ha girado la cabeza del paciente</Spanish>
         </Key>
         <!--
             // Recovery Position Action // -->
         <Key ID="STR_ACM_Airway_RecoveryPosition_Already">
             <English>Patient already in recovery position</English>
             <Español>El paciente ya se encuentra en posción lateral de seguridad</Español>
+            <Spanish>El paciente ya se encuentra en posción lateral de seguridad</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established">
             <English>Established recovery position</English>
             <Español>Establecer posición de recuperación</Español>
+            <Spanish>Establecer posición de recuperación</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Established_ActionLog">
             <English>%1 established recovery position</English>
             <Español>%1 ha puesto al paciente en posición de recuperación</Español>
+            <Spanish>%1 ha puesto al paciente en posición de recuperación</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled">
             <English>Cancelled recovery position</English>
             <Español>Posición de recuperación cancelada</Español>
+            <Spanish>Posición de recuperación cancelada</Spanish>
         </Key>
         <Key ID="STR_ACM_Airway_RecoveryPosition_Cancelled_ActionLog">
             <English>%1 cancelled recovery position</English>
             <Español>%1 ha cancelado la posición de recuperación</Español>
+            <Spanish>%1 ha cancelado la posición de recuperación</Spanish>
         </Key>
         <!--
             // GUI // -->
         <Key ID="STR_ACM_Airway_GUI_HeadTiltedChinLifted">
             <English>Head Tilted &amp; Chin Lifted</English>
             <Español>Cabeza inclinada y barbilla levantada</Español>
+            <Spanish>Cabeza inclinada y barbilla levantada</Spanish>
         </Key>
     </Package>
 </Project>
